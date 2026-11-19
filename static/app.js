@@ -700,15 +700,21 @@
     el.textContent = b.statement || "保底可配给界自检：未核（响应体缺少结论句）。";
   }
 
-  /* C657 / W171：查这一条 —— 只有服务版答得了（静态站没有服务端）。
-     所以先问 `/api/health`「这个页面背后有没有服务端」，问到了才显形；
-     入口名与端点路径都取 meta 里的同一份声明（页面不写第二遍，WA5）。
-     没有服务端还显形 = 给家长一个点不动的框。 */
+  /* C657 / W171 + C665 / W179：查这一条 —— 两种后端、**一套入口**。
+     先问 `/api/health`「这个页面背后是谁」：
+       · `gaokao-webui` = 服务版 ⇒ 走 `/api/why-absent`（现算，任意分数）；
+       · `static-mode`  = 静态正式版 ⇒ 同一个路径由 `static-boot.js` 拦截，读**本案**
+         导出期算好的索引（同一份池、同一代），响应形状完全相同。
+     入口名、路径与静态索引模板都取 meta 的同一份声明（页面不写第二遍，WA5）。
+     两者都不是（既无服务端、meta 又没声明静态索引）⇒ 保持隐藏：不给一个点不动的框。 */
   function enableWhyAbsent(spec) {
     var card = $("why-absent-card");
-    if (!card) return;
+    if (!card || !spec) return;
     fetch("/api/health").then(function (r) { return r.json(); }).then(function (h) {
-      if (!h || h.service !== "gaokao-webui") return;
+      if (!h) return;
+      var served = h.service === "gaokao-webui";
+      var staticOk = h.service === "static-mode" && !!spec.static_index;
+      if (!served && !staticOk) return;
       card.hidden = false;
       $("why-absent-go").addEventListener("click", function () { askWhyAbsent(spec); });
     }).catch(function () { /* 没有服务端：保持隐藏 */ });
@@ -724,7 +730,7 @@
       out.textContent = "请先填学校名（不填专业就答整所学校）。";
       return;
     }
-    out.textContent = "正在查这一条，约需 10 秒…";
+    out.textContent = "正在查这一条…";
     post(spec.path, payload).then(function (r) {
       var d = r.json || {};
       var lines = d.render || [];
