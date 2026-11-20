@@ -706,14 +706,19 @@
        · `static-mode`  = 静态正式版 ⇒ 同一个路径由 `static-boot.js` 拦截，读**本案**
          导出期算好的索引（同一份池、同一代），响应形状完全相同。
      入口名、路径与静态索引模板都取 meta 的同一份声明（页面不写第二遍，WA5）。
-     两者都不是（既无服务端、meta 又没声明静态索引）⇒ 保持隐藏：不给一个点不动的框。 */
+     C671：静态面还要问**这一页**有没有索引（`why_absent_ready`）—— 模板 `static_index`
+     是恒真的（`data/why-absent-{case}.json.gz`），拿它当「能查」会让 82 个档位页
+     都显出一个点了必失败的框（档位页没有导出索引）。
+     两者都不是（既无服务端、meta 又没声明静态索引、或这一页没有索引）⇒ 保持隐藏：
+     不给一个点不动的框。 */
   function enableWhyAbsent(spec) {
     var card = $("why-absent-card");
     if (!card || !spec) return;
     fetch("/api/health").then(function (r) { return r.json(); }).then(function (h) {
       if (!h) return;
       var served = h.service === "gaokao-webui";
-      var staticOk = h.service === "static-mode" && !!spec.static_index;
+      var staticOk = h.service === "static-mode" && !!spec.static_index &&
+                     h.why_absent_ready === true;
       if (!served && !staticOk) return;
       card.hidden = false;
       $("why-absent-go").addEventListener("click", function () { askWhyAbsent(spec); });

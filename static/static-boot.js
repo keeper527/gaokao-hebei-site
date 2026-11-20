@@ -158,6 +158,16 @@
     if (typeof s.normalize === "function") { s = s.normalize("NFKC"); }
     return s.replace(/\s+/g, "");
   }
+  /* C671：**这一页能不能查是逐页事实** —— 只有案例条目**声明了** `why_absent` 的页面才算能查。
+     档位页（`?case=P…`：按分数预生成的那 82 页）没有导出索引 ⇒ `false` ⇒ 页面不显这一栏。
+     此前 `spec.static_index` 是**恒真模板**（`data/why-absent-{case}.json.gz`）⇒ 82 个档位页
+     都显出一个「点了必 502（索引缺失）」的框：**一个点不动的框比没有框更糟**（这是本条要修的缺陷）。 */
+  function waReady() {
+    for (var i = 0; i < CASES.length; i++) {
+      if (CASES[i].id === CASE) return !!CASES[i].why_absent;
+    }
+    return false;
+  }
   function whyAbsentAnswer(req) {
     var school = String((req && req.school) || "");
     var major = String((req && req.major) || "");
@@ -242,8 +252,11 @@
     }
     if (path === "/api/health") {
       /* C657：静态版没有服务端 ⇒ 自己回答「没有后端」。两种情况都错：让它漏到 orig 会
-         逃出子路径前缀（S15 现场），而回一个 `gaokao-webui` 会让页面显出一个点不动的框。 */
-      return Promise.resolve(jsonRes({ ok: false, service: "static-mode", reason: "no_backend" }, 200));
+         逃出子路径前缀（S15 现场），而回一个 `gaokao-webui` 会让页面显出一个点不动的框。
+         C671：**「这一页能不能查」逐页回答**（`waReady()`：案例条目声明了索引才算）——
+         档位页拿到的 `why_absent_ready` 是 `false` ⇒ 页面不显那一栏。 */
+      return Promise.resolve(jsonRes({ ok: false, service: "static-mode", reason: "no_backend",
+                                       why_absent_ready: waReady() }, 200));
     }
     if (path === "/api/why-absent") {
       /* C665：静态版的「查这一条」= 查**本案**导出的索引（导出期用同一个 `_explain` 算好）。
