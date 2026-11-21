@@ -1,7 +1,7 @@
 {
  "ok": true,
  "site": "gaokao-hebei-static-site",
- "generated_at": "2026-11-21T12:39:52+08:00",
+ "generated_at": "2026-11-21T13:10:35+08:00",
  "note": "静态正式版：只读站点，页面不在浏览器侧算方案；每个案例的方案件与 outputs/plans 逐行同源。自定义分数按 10 分一档预生成（取最近档），精确到 1 分请用本机/在线服务版。",
  "default": "C1",
  "cases": [
@@ -1289,7 +1289,7 @@
     "hi": 622,
     "subject": "history",
     "subject_cn": "历史",
-    "why_absent": false
+    "why_absent": true
    },
    "H625": {
     "score": 625,
@@ -1297,7 +1297,7 @@
     "hi": 627,
     "subject": "history",
     "subject_cn": "历史",
-    "why_absent": false
+    "why_absent": true
    },
    "H630": {
     "score": 630,
@@ -1305,7 +1305,7 @@
     "hi": 632,
     "subject": "history",
     "subject_cn": "历史",
-    "why_absent": false
+    "why_absent": true
    },
    "H635": {
     "score": 635,
@@ -1321,7 +1321,7 @@
     "hi": 642,
     "subject": "history",
     "subject_cn": "历史",
-    "why_absent": false
+    "why_absent": true
    },
    "H645": {
     "score": 645,
@@ -1329,7 +1329,7 @@
     "hi": 647,
     "subject": "history",
     "subject_cn": "历史",
-    "why_absent": false
+    "why_absent": true
    },
    "H650": {
     "score": 650,
@@ -1337,7 +1337,7 @@
     "hi": 652,
     "subject": "history",
     "subject_cn": "历史",
-    "why_absent": false
+    "why_absent": true
    }
   },
   "items": [
@@ -2248,7 +2248,7 @@
     "score": 620,
     "lo": 618,
     "hi": 622,
-    "why_absent": false,
+    "why_absent": "data/why-absent-H620.json.gz",
     "plan": "data/plan-H620.json",
     "list": "data/list-H620.md",
     "slot_count": 96
@@ -2260,7 +2260,7 @@
     "score": 625,
     "lo": 623,
     "hi": 627,
-    "why_absent": false,
+    "why_absent": "data/why-absent-H625.json.gz",
     "plan": "data/plan-H625.json",
     "list": "data/list-H625.md",
     "slot_count": 96
@@ -2272,7 +2272,7 @@
     "score": 630,
     "lo": 628,
     "hi": 632,
-    "why_absent": false,
+    "why_absent": "data/why-absent-H630.json.gz",
     "plan": "data/plan-H630.json",
     "list": "data/list-H630.md",
     "slot_count": 96
@@ -2296,7 +2296,7 @@
     "score": 640,
     "lo": 638,
     "hi": 642,
-    "why_absent": false,
+    "why_absent": "data/why-absent-H640.json.gz",
     "plan": "data/plan-H640.json",
     "list": "data/list-H640.md",
     "slot_count": 96
@@ -2308,7 +2308,7 @@
     "score": 645,
     "lo": 643,
     "hi": 647,
-    "why_absent": false,
+    "why_absent": "data/why-absent-H645.json.gz",
     "plan": "data/plan-H645.json",
     "list": "data/list-H645.md",
     "slot_count": 96
@@ -2320,7 +2320,7 @@
     "score": 650,
     "lo": 648,
     "hi": 652,
-    "why_absent": false,
+    "why_absent": "data/why-absent-H650.json.gz",
     "plan": "data/plan-H650.json",
     "list": "data/list-H650.md",
     "slot_count": 96
