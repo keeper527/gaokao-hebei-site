@@ -398,6 +398,28 @@
     if (form) {
       Array.prototype.forEach.call(form.querySelectorAll("input,select,textarea"),
         function (el) { el.disabled = true; });
+      /* C676（2026-11-21 15:00）：**这个表单在静态版里每一项都不参与计算。**
+         boot 只 disable 了 `index.html` 里直写的控件，而偏好面板是 `app.js` 拿到
+         `/api/meta` **之后**才动态渲染的 ⇒ 真浏览器实测 29 个控件里 **22 个仍可点**
+         （`pref--exclude_high_tuition_proxy` / `pref--region_blacklist` / `submit-btn` …）。
+         读者勾「排除高学费」再点「生成方案」，页面回一句「已生成。」而表**一字未变**
+         （实测 `<section id="result">` 148,622 → 148,622 字节）——
+         「看着生效、其实被丢掉」比「没有这个控件」更糟：家长会照着他明明排除了的学校填志愿。
+         做法 = 整块**藏掉** + 一句话说清静态版怎么给方案（换分数走「分数入口」、
+         偏好不参与、要按偏好算用服务版）。`display` 由 UA 的 `[hidden]` 负责
+         （`.card` 不设 `display`，实测渲染高度 0）。 */
+      var card = form.closest ? form.closest(".form-card") : null;
+      if (card && card.parentNode) {
+        var note = document.createElement("section");
+        note.className = "card static-note";
+        note.id = "static-note";
+        note.innerHTML = "<b>静态正式版</b>：方案按<b>分数档</b>预生成，这一页已经是该档的完整方案，" +
+          "不用再点「生成方案」。换分数用上面的「查自己的分数」；" +
+          "<b>偏好设置不参与计算</b>（专业优先 / 排除 / 只保留这些都要按你的条件重算）—— " +
+          "那一路请用在线服务版。";
+        card.parentNode.insertBefore(note, card);
+        card.hidden = true;
+      }
     }
     var sub = document.getElementById("subject");
     if (sub) sub.value = cur ? cur.subject : band.subject;
