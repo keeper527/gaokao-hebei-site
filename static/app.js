@@ -470,7 +470,7 @@
         locatorBlock(it) + "</li>";
     }).join("");
     return '<tr class="detail-row" data-detail="' + esc(r.slot) + '" hidden>' +
-      '<td colspan="9"><div class="charter-detail">' +
+      '<td colspan="10"><div class="charter-detail">' +
       "<p class=\"hint\">第 " + esc(r.slot) + " 条 · " + esc(r.school) + " · 命中 <strong>" +
       items.length + "</strong> 条硬性限制条款（逐字引用，未改写）：</p><ul>" + lis + "</ul>" +
       "</div></td></tr>";
@@ -491,7 +491,7 @@
 
     if (!shown.length) {
       $("plan-table").querySelector("tbody").innerHTML =
-        '<tr><td colspan="9" class="empty">没有符合条件的行</td></tr>';
+        '<tr><td colspan="10" class="empty">没有符合条件的行</td></tr>';
       return;
     }
 
@@ -506,6 +506,7 @@
         "<td>" + esc(r.major) + (r.direction ? '<span class="note">（' + esc(r.direction) + "）</span>" : "") +
           (r.major_pref ? ' <span class="tag pref">★' + esc(r.major_pref.term) +
             "（权重 " + esc(r.major_pref.weight) + "）</span>" : "") + "</td>" +
+        '<td class="code">' + esc(r.filling_code || "—") + "</td>" +
         '<td class="num">' + fmtInt(r.ref_center_used) + "</td>" +
         '<td class="num ' + m.cls + '">' + m.text + "</td>" +
         '<td class="num">' + esc(r.confidence === "high" ? "高" : (r.confidence === "low" ? "低" : "中")) + "</td>" +
