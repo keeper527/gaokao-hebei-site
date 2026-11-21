@@ -158,11 +158,11 @@
     if (typeof s.normalize === "function") { s = s.normalize("NFKC"); }
     return s.replace(/\s+/g, "");
   }
-  /* C671 / C672：**这一页能不能查是逐页事实** —— 案例条目声明了 `why_absent`、或档位条目
+  /* C671 / C673：**这一页能不能查是逐页事实** —— 案例条目声明了 `why_absent`、或档位条目
      （`__BANDS__.bands[id].why_absent`）为真，这一页才算能查；两处都没声明 ⇒ `false` ⇒ 不显那一栏。
      此前 `spec.static_index` 是**恒真模板**（`data/why-absent-{case}.json.gz`）⇒ 82 个档位页
      都显出一个「点了必 502（索引缺失）」的框：**一个点不动的框比没有框更糟**（这是 C671 修的缺陷）。
-     C672 = 把 82 个档位页的索引真的导出来（逐档一件，与档位方案件同代），于是它们也能查。 */
+     C673 = 把 82 个档位页的索引真的导出来（逐档一件，与档位方案件同代），于是它们也能查。 */
   function waReady() {
     for (var i = 0; i < CASES.length; i++) {
       if (CASES[i].id === CASE) return !!CASES[i].why_absent;
