@@ -158,15 +158,17 @@
     if (typeof s.normalize === "function") { s = s.normalize("NFKC"); }
     return s.replace(/\s+/g, "");
   }
-  /* C671：**这一页能不能查是逐页事实** —— 只有案例条目**声明了** `why_absent` 的页面才算能查。
-     档位页（`?case=P…`：按分数预生成的那 82 页）没有导出索引 ⇒ `false` ⇒ 页面不显这一栏。
+  /* C671 / C672：**这一页能不能查是逐页事实** —— 案例条目声明了 `why_absent`、或档位条目
+     （`__BANDS__.bands[id].why_absent`）为真，这一页才算能查；两处都没声明 ⇒ `false` ⇒ 不显那一栏。
      此前 `spec.static_index` 是**恒真模板**（`data/why-absent-{case}.json.gz`）⇒ 82 个档位页
-     都显出一个「点了必 502（索引缺失）」的框：**一个点不动的框比没有框更糟**（这是本条要修的缺陷）。 */
+     都显出一个「点了必 502（索引缺失）」的框：**一个点不动的框比没有框更糟**（这是 C671 修的缺陷）。
+     C672 = 把 82 个档位页的索引真的导出来（逐档一件，与档位方案件同代），于是它们也能查。 */
   function waReady() {
     for (var i = 0; i < CASES.length; i++) {
       if (CASES[i].id === CASE) return !!CASES[i].why_absent;
     }
-    return false;
+    var b = bandOf(CASE);
+    return !!(b && b.why_absent);
   }
   function whyAbsentAnswer(req) {
     var school = String((req && req.school) || "");
