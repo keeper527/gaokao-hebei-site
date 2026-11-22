@@ -24,7 +24,7 @@ li{margin:4px 0}
 .tsc tbody td:first-child{position:sticky;left:0;background:#fff;z-index:1}
 .tsc thead th:first-child{position:sticky;left:0;z-index:2}
 </style></head><body><div class="wrap">
-<p class="src">本页由仓库内 <code>outputs/<wbr>guide/<wbr>使用说明.md</code> 机械渲染（源件 sha256 前 12 位 611f2d479a71），未增删任何数字；源件由 <code>python3 -m scripts.<wbr>webui.<wbr>usage_guide</code> 生成。</p>
+<p class="src">本页由仓库内 <code>outputs/<wbr>guide/<wbr>使用说明.md</code> 机械渲染（源件 sha256 前 12 位 a1598229f2df），未增删任何数字；源件由 <code>python3 -m scripts.<wbr>webui.<wbr>usage_guide</code> 生成。</p>
 <h1>河北普通类本科批 · 志愿方案使用说明（家长版）</h1>
 <blockquote><p>这份说明只讲「在哪看、怎么换、哪几个数字能信」。文中每个数字都是从方案件 / 回测件现读的，不是为这份说明另写的一套。</p></blockquote>
 <h2>一、这是什么</h2>
@@ -98,6 +98,6 @@ li{margin:4px 0}
 <ol><li>三项指标来自往年数据的群体回测：它不是你的录取结果，也不预测明年的分数与位次。</li><li>「保底可靠性」的分母只是计划里真有绝对保底行的那部分人，不是全部考生，要连着「保底行覆盖率」一起读。</li><li>分带表每格人数很少，一个人就顶好几个百分点，所以本系统不印分带的百分比。</li><li>分带表里的「未核」是「这一格没有分母」，不是 0%，也不是「没有人滑档」。</li><li>招生计划数、专业调剂规则、体检结论、你是否满足选科要求：这四项本系统没有核。</li></ol>
 <blockquote><p>本版分带读数：24 格 × 25 人（一个人 = 4 个百分点），其中 15 格没有分母（印「未核」）。</p></blockquote>
 <h2>七、怎么自己复核</h2>
-<ul><li>表格与一页纸清单的第 5 列是<b>填报代号（2026）</b>：<code>院校代号 · 专业代号</code>，照它就能在填报系统里一条条录入 —— <b>只对 2026 年有效</b>（代号每年重排，换年必须重新对表）。</li><li>格子里印两个代号（如 <code>11/12</code>）＝ 同名专业当年两条，按招生计划册选一；印「—（未对上 2026 投档表）」＝ 当年投档表里没对上，照学校 + 专业名去计划册手查。本版 91 份清单共 8,392 行：唯一对上 8,328、二义 64、未对上 0。</li><li>一页纸清单：包内 <code>outputs/<wbr>plans/<wbr>list-&lt;案例&gt;.md</code>；在线站点上点「导出 .md 清单」按钮即下载同一份（第六节写本版没核什么，第十七节写章程门槛）。</li><li>发布包校验：在包目录里 <code>sha256sum -c SHA256SUMS</code>，全 OK 才上传。</li><li>站点重建后必须重打包：<code>release --check</code> 会报「包与站点不同批」，那时旧包不再是证据。</li></ul>
+<ul><li>表格与一页纸清单的第 5 列是<b>填报代号（2026）</b>：<code>院校代号 · 专业代号</code>，照它就能在填报系统里一条条录入 —— <b>只对 2026 年有效</b>（代号每年重排，换年必须重新对表）。</li><li>格子里印两个代号（如 <code>11/12</code>）＝ 同名专业当年两条，按招生计划册选一；印「—（未对上 2026 投档表）」＝ 当年投档表里没对上，照学校 + 专业名去计划册手查。本版 91 份清单共 8,392 行：唯一对上 8,328、二义 64、未对上 0。</li><li>一页纸清单：包内 <code>outputs/<wbr>plans/<wbr>list-&lt;案例&gt;.md</code>；在线站点上点「导出 .md 清单」按钮即下载同一份，也可直接把站上的 <code>data/<wbr>list-&lt;案例&gt;.md</code> 存下来（档位页把 <code>&lt;案例&gt;</code> 换成 P600 这类档位编号；第六节写本版没核什么，第十七节写章程门槛）。</li><li>发布包校验：在包目录里 <code>sha256sum -c SHA256SUMS</code>，全 OK 才上传。</li><li>站点重建后必须重打包：<code>release --check</code> 会报「包与站点不同批」，那时旧包不再是证据。</li></ul>
 <p class="foot"><a href="index.html">← 回方案页</a></p>
 </div></body></html>
