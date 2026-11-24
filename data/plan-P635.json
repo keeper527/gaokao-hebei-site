@@ -197,11 +197,40 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "第十四条 学校参照教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》和教育部办公厅、原卫生部办公厅《关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔 2010〕2号）及有关补充规定，结合学校各专业实际，有以下情况者，学校有关…（原文共 306 字）",
+      "truncated": true,
+      "n_chars": 306,
+      "major_named": false,
+      "sentence_index": 33,
+      "span": [
+       2253,
+       2560
+      ],
+      "locator": {
+       "file": "中国地质大学.txt",
+       "sha12": "5db298086aec",
+       "start": 2253,
+       "end": 2560,
+       "chars": 307,
+       "sentence_index": 33,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 第十四条 学校参照教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》和教育部办公厅、原卫生部办公厅《关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔 2010〕2号）及有关补充规定，结合学校各专业实际，有以下情况者，学校有关专业不予录取： 轻度色觉异常（俗称色弱）不予录取的专业：地质学（燕山书院创新班），地质学（理科基地班），地质学类，材料类，环境工程，地下水科学与工程，资源勘查工程（能源），资源勘查工程（新能源地质与工程），石油工程，新能源科学与工程，碳储科学与工程，宝石及材料工艺学，产品设计，艺术与科技，海洋科学，海洋资源与环境，海洋工程与技术。",
+       "start": 2253,
+       "end": 2560,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -283,11 +312,40 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 2,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "7. 轻度色觉异常（俗称色弱）不予录取的专业：视觉传达设计、环境设计、产品设计、服装与服饰设计、数字媒体艺术、艺术与科技、应用化学、生物工程、生物医学工程、轻化工程、环境工程、高分子材料与工程。",
+      "truncated": false,
+      "n_chars": 97,
+      "major_named": false,
+      "sentence_index": 50,
+      "span": [
+       2736,
+       2834
+      ],
+      "locator": {
+       "file": "东华大学.txt",
+       "sha12": "3fb41de91548",
+       "start": 2736,
+       "end": 2834,
+       "chars": 98,
+       "sentence_index": 50,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 7. 轻度色觉异常（俗称色弱）不予录取的专业：视觉传达设计、环境设计、产品设计、服装与服饰设计、数字媒体艺术、艺术与科技、应用化学、生物工程、生物医学工程、轻化工程、环境工程、高分子材料与工程。",
+       "start": 2736,
+       "end": 2834,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -482,7 +540,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
@@ -513,6 +571,35 @@
        "text": " 根据专业特点，学校部分专业（类）对体检色觉异常考生不予录取，具体如下： 1. 不招色弱、色盲、单色识别不全考生的专业（类） ： 学前教育 、 特殊教育 、 化学 、 化学类 、 环境科学与工程 、 自然保护与环境生态类 ；",
        "start": 3544,
        "end": 3656,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "2. 不招色盲 、单色识别不全 考生 的专业（类） ： 心理学 、 心理学 （ 中外合作办学 ） 、 应用心理学 、 雕塑 、 绘画 、 美术学 、 视觉传达设计 、 量子信息科学 、 材料类 、 地理科学 、 智慧农业 、 植物科学与技术 （ 中外合作办学 ） 、 生物育种科学…（原文共 288 字）",
+      "truncated": true,
+      "n_chars": 288,
+      "major_named": false,
+      "sentence_index": 57,
+      "span": [
+       3656,
+       3945
+      ],
+      "locator": {
+       "file": "西南大学.txt",
+       "sha12": "7f263e8b6087",
+       "start": 3656,
+       "end": 3945,
+       "chars": 289,
+       "sentence_index": 57,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 2. 不招色盲 、单色识别不全 考生 的专业（类） ： 心理学 、 心理学 （ 中外合作办学 ） 、 应用心理学 、 雕塑 、 绘画 、 美术学 、 视觉传达设计 、 量子信息科学 、 材料类 、 地理科学 、 智慧农业 、 植物科学与技术 （ 中外合作办学 ） 、 生物育种科学 、 植物生产类 、 园林 、 风景园林 、 蚕学 （ 双学士学位 ） 、 生物技术 、 生物技术 （ 中外合作办学 ） 、 生物质科学与工程 、纤维科学与智能制造、 动物科学 、 动物医学类 （ 五年制 ） 、 动物药学 、 生物科学 、 药学 、 药学 （ 中外合作办学 ） 、 制药工程 。",
+       "start": 3656,
+       "end": 3945,
        "truncated": false
       }
      },
@@ -681,11 +768,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "第十四条 学校参照教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》和教育部办公厅、原卫生部办公厅《关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔 2010〕2号）及有关补充规定，结合学校各专业实际，有以下情况者，学校有关…（原文共 306 字）",
+      "truncated": true,
+      "n_chars": 306,
+      "major_named": false,
+      "sentence_index": 33,
+      "span": [
+       2253,
+       2560
+      ],
+      "locator": {
+       "file": "中国地质大学.txt",
+       "sha12": "5db298086aec",
+       "start": 2253,
+       "end": 2560,
+       "chars": 307,
+       "sentence_index": 33,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 第十四条 学校参照教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》和教育部办公厅、原卫生部办公厅《关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔 2010〕2号）及有关补充规定，结合学校各专业实际，有以下情况者，学校有关专业不予录取： 轻度色觉异常（俗称色弱）不予录取的专业：地质学（燕山书院创新班），地质学（理科基地班），地质学类，材料类，环境工程，地下水科学与工程，资源勘查工程（能源），资源勘查工程（新能源地质与工程），石油工程，新能源科学与工程，碳储科学与工程，宝石及材料工艺学，产品设计，艺术与科技，海洋科学，海洋资源与环境，海洋工程与技术。",
+       "start": 2253,
+       "end": 2560,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -767,11 +883,40 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 2,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "7. 轻度色觉异常（俗称色弱）不予录取的专业：视觉传达设计、环境设计、产品设计、服装与服饰设计、数字媒体艺术、艺术与科技、应用化学、生物工程、生物医学工程、轻化工程、环境工程、高分子材料与工程。",
+      "truncated": false,
+      "n_chars": 97,
+      "major_named": false,
+      "sentence_index": 50,
+      "span": [
+       2736,
+       2834
+      ],
+      "locator": {
+       "file": "东华大学.txt",
+       "sha12": "3fb41de91548",
+       "start": 2736,
+       "end": 2834,
+       "chars": 98,
+       "sentence_index": 50,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 7. 轻度色觉异常（俗称色弱）不予录取的专业：视觉传达设计、环境设计、产品设计、服装与服饰设计、数字媒体艺术、艺术与科技、应用化学、生物工程、生物医学工程、轻化工程、环境工程、高分子材料与工程。",
+       "start": 2736,
+       "end": 2834,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -853,11 +998,40 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 3,
+    "n_hard": 4,
     "n_soft": 0,
-    "n_stated": 0,
+    "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工…（原文共 153 字）",
+      "truncated": true,
+      "n_chars": 153,
+      "major_named": false,
+      "sentence_index": 42,
+      "span": [
+       2820,
+       2973
+      ],
+      "locator": {
+       "file": "合肥工业大学.txt",
+       "sha12": "c6b9485ac46f",
+       "start": 2820,
+       "end": 2973,
+       "chars": 153,
+       "sentence_index": 42,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工程 、 环境 设计 专业。",
+       "start": 2820,
+       "end": 2973,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -1025,7 +1199,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -1056,6 +1230,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -1109,7 +1312,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 1,
+    "n_hard": 2,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -1140,6 +1343,35 @@
        "text": " 有以下情况者，学校有关专业不能录取，请有关考生谨慎报考： 1. 轻度色觉异常（俗称色弱）不能录取的专业：农学、种子科学与工程、植物科学与技术、智慧农业、生物育种科学、植物保护、制药工程、园艺、茶学、动物科学、水产养殖学、智慧牧业科学与工程、动物医学、动物药学、园林、林学、森林保护、林产化工、智慧林业、资源环境科学、环境工程、土地科学与技术、食品科学与工程、食品质量与安全、食品营养与健康、葡萄与葡萄酒工程、生物技术、生物科学、生物工程、生物信息学、应用化学、化学生物学。",
        "start": 2733,
        "end": 2970,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "2. 色觉异常II度(俗称色盲)不能录取的专业，除同轻度色觉异常外，还有环境设计和地理信息科学专业。",
+      "truncated": false,
+      "n_chars": 50,
+      "major_named": false,
+      "sentence_index": 45,
+      "span": [
+       2970,
+       3021
+      ],
+      "locator": {
+       "file": "西北农林科技大学.txt",
+       "sha12": "920ca2de11db",
+       "start": 2970,
+       "end": 3021,
+       "chars": 51,
+       "sentence_index": 45,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 2. 色觉异常II度(俗称色盲)不能录取的专业，除同轻度色觉异常外，还有环境设计和地理信息科学专业。",
+       "start": 2970,
+       "end": 3021,
        "truncated": false
       }
      }
@@ -1304,11 +1536,69 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 1,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+      "truncated": false,
+      "n_chars": 65,
+      "major_named": false,
+      "sentence_index": 59,
+      "span": [
+       3325,
+       3390
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3325,
+       "end": 3390,
+       "chars": 65,
+       "sentence_index": 59,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+       "start": 3325,
+       "end": 3390,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+      "truncated": false,
+      "n_chars": 85,
+      "major_named": false,
+      "sentence_index": 60,
+      "span": [
+       3390,
+       3475
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3390,
+       "end": 3475,
+       "chars": 85,
+       "sentence_index": 60,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+       "start": 3390,
+       "end": 3475,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -1361,7 +1651,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -1392,6 +1682,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -1448,7 +1767,7 @@
    "charter": {
     "status": "hard",
     "n_hard": 1,
-    "n_soft": 1,
+    "n_soft": 2,
     "n_stated": 0,
     "via_alias": false,
     "items": [
@@ -1561,7 +1880,7 @@
     "status": "hard",
     "n_hard": 2,
     "n_soft": 1,
-    "n_stated": 2,
+    "n_stated": 3,
     "via_alias": false,
     "items": [
      {
@@ -1643,11 +1962,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+      "truncated": false,
+      "n_chars": 132,
+      "major_named": true,
+      "sentence_index": 15,
+      "span": [
+       847,
+       979
+      ],
+      "locator": {
+       "file": "中国海洋大学.txt",
+       "sha12": "9b383b00042e",
+       "start": 847,
+       "end": 979,
+       "chars": 132,
+       "sentence_index": 15,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+       "start": 847,
+       "end": 979,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -1728,7 +2076,7 @@
    "charter": {
     "status": "hard",
     "n_hard": 3,
-    "n_soft": 0,
+    "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": [
@@ -1953,7 +2301,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -1984,6 +2332,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -2096,7 +2473,7 @@
    "charter": {
     "status": "hard",
     "n_hard": 3,
-    "n_soft": 0,
+    "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": [
@@ -2322,7 +2699,7 @@
    "charter": {
     "status": "no_hard",
     "n_hard": 0,
-    "n_soft": 0,
+    "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": []
@@ -2347,7 +2724,7 @@
    "charter": {
     "status": "no_hard",
     "n_hard": 0,
-    "n_soft": 0,
+    "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": []
@@ -2372,12 +2749,42 @@
     "B1-R4: 趋势下行标记（OLS 斜率 > 2%×均值/年，分数线逐年降低）"
    ],
    "charter": {
-    "status": "no_hard",
-    "n_hard": 0,
-    "n_soft": 0,
+    "status": "hard",
+    "n_hard": 1,
+    "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
-    "items": []
+    "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "根据专业（类）培养特点，轻度色觉异常（俗称色弱）、色觉异常 II 度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取至工科试验班（宏德书院）、工科试验班（未来生物科技）、工科试验班（化工与能源）、工科试验班（先进材料）、工…（原文共 256 字）",
+      "truncated": true,
+      "n_chars": 256,
+      "major_named": true,
+      "sentence_index": 47,
+      "span": [
+       2609,
+       2865
+      ],
+      "locator": {
+       "file": "北京化工大学.txt",
+       "sha12": "b246cf7294b9",
+       "start": 2609,
+       "end": 2865,
+       "chars": 256,
+       "sentence_index": 47,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "根据专业（类）培养特点，轻度色觉异常（俗称色弱）、色觉异常 II 度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取至工科试验班（宏德书院）、工科试验班（未来生物科技）、工科试验班（化工与能源）、工科试验班（先进材料）、工科试验班（生物与医药）、理科试验班（化学基础拔尖）、理科试验班（绿色化学）、化学工程与工艺、环境工程、生物工程、制药工程、新能源材料与器件、材料科学与工程、化学、化工与制药类（中外合作办学）（中法精英工程教育试验班）、设计学类专业。",
+       "start": 2609,
+       "end": 2865,
+       "truncated": false
+      }
+     }
+    ]
    }
   },
   {
@@ -2544,11 +2951,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 3,
+    "n_hard": 4,
     "n_soft": 0,
-    "n_stated": 0,
+    "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工…（原文共 153 字）",
+      "truncated": true,
+      "n_chars": 153,
+      "major_named": false,
+      "sentence_index": 42,
+      "span": [
+       2820,
+       2973
+      ],
+      "locator": {
+       "file": "合肥工业大学.txt",
+       "sha12": "c6b9485ac46f",
+       "start": 2820,
+       "end": 2973,
+       "chars": 153,
+       "sentence_index": 42,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工程 、 环境 设计 专业。",
+       "start": 2820,
+       "end": 2973,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -2657,11 +3093,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 3,
+    "n_hard": 4,
     "n_soft": 0,
-    "n_stated": 0,
+    "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工…（原文共 153 字）",
+      "truncated": true,
+      "n_chars": 153,
+      "major_named": false,
+      "sentence_index": 42,
+      "span": [
+       2820,
+       2973
+      ],
+      "locator": {
+       "file": "合肥工业大学.txt",
+       "sha12": "c6b9485ac46f",
+       "start": 2820,
+       "end": 2973,
+       "chars": 153,
+       "sentence_index": 42,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工程 、 环境 设计 专业。",
+       "start": 2820,
+       "end": 2973,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -2770,7 +3235,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
@@ -2801,6 +3266,35 @@
        "text": "其中，与色彩辨识密切相关，轻度色觉异常（俗称色弱）不予录取的专业，包含但不限于化学类、 化学工程与工艺、 医学类、药学类、生物科学类、动物科学、地质学类、草业科学、生态学、环境 科学与 工程、核化工与核燃料、材料化学、新能源材料与器件 、 生物制药 等 相关 专业 ；",
        "start": 1690,
        "end": 1824,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "与色彩辨识密切相关，色觉异常 II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含但不限于 设计学类、 应用物理学、 辐射防护与核安全、核科学与核技术、 地理科学、应用气象学、 文物与 博物馆学、材料物理 、 资源勘查工程 等专业 ；",
+      "truncated": false,
+      "n_chars": 121,
+      "major_named": false,
+      "sentence_index": 30,
+      "span": [
+       1824,
+       1946
+      ],
+      "locator": {
+       "file": "兰州大学.txt",
+       "sha12": "8a5a6eec074e",
+       "start": 1824,
+       "end": 1946,
+       "chars": 122,
+       "sentence_index": 30,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 与色彩辨识密切相关，色觉异常 II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含但不限于 设计学类、 应用物理学、 辐射防护与核安全、核科学与核技术、 地理科学、应用气象学、 文物与 博物馆学、材料物理 、 资源勘查工程 等专业 ；",
+       "start": 1824,
+       "end": 1946,
        "truncated": false
       }
      },
@@ -2857,12 +3351,42 @@
     "B1-R4: 趋势下行标记（OLS 斜率 > 2%×均值/年，分数线逐年降低）"
    ],
    "charter": {
-    "status": "no_hard",
-    "n_hard": 0,
+    "status": "hard",
+    "n_hard": 1,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
-    "items": []
+    "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "学校授予学位门类为医学、理学、工学的专业不招收色盲、色弱考生，授予学位门类为艺术学的专业不招收色盲考生。",
+      "truncated": false,
+      "n_chars": 52,
+      "major_named": false,
+      "sentence_index": 40,
+      "span": [
+       3382,
+       3435
+      ],
+      "locator": {
+       "file": "大连医科大学.txt",
+       "sha12": "fa4e2e4562f5",
+       "start": 3382,
+       "end": 3435,
+       "chars": 53,
+       "sentence_index": 40,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 学校授予学位门类为医学、理学、工学的专业不招收色盲、色弱考生，授予学位门类为艺术学的专业不招收色盲考生。",
+       "start": 3382,
+       "end": 3435,
+       "truncated": false
+      }
+     }
+    ]
    }
   },
   {
@@ -2883,11 +3407,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "第十四条 学校参照教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》和教育部办公厅、原卫生部办公厅《关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔 2010〕2号）及有关补充规定，结合学校各专业实际，有以下情况者，学校有关…（原文共 306 字）",
+      "truncated": true,
+      "n_chars": 306,
+      "major_named": false,
+      "sentence_index": 33,
+      "span": [
+       2253,
+       2560
+      ],
+      "locator": {
+       "file": "中国地质大学.txt",
+       "sha12": "5db298086aec",
+       "start": 2253,
+       "end": 2560,
+       "chars": 307,
+       "sentence_index": 33,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 第十四条 学校参照教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》和教育部办公厅、原卫生部办公厅《关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔 2010〕2号）及有关补充规定，结合学校各专业实际，有以下情况者，学校有关专业不予录取： 轻度色觉异常（俗称色弱）不予录取的专业：地质学（燕山书院创新班），地质学（理科基地班），地质学类，材料类，环境工程，地下水科学与工程，资源勘查工程（能源），资源勘查工程（新能源地质与工程），石油工程，新能源科学与工程，碳储科学与工程，宝石及材料工艺学，产品设计，艺术与科技，海洋科学，海洋资源与环境，海洋工程与技术。",
+       "start": 2253,
+       "end": 2560,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -2968,7 +3521,7 @@
    "charter": {
     "status": "no_hard",
     "n_hard": 0,
-    "n_soft": 0,
+    "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": []
@@ -2991,12 +3544,42 @@
    "risk_notes": [],
    "b1_notes": [],
    "charter": {
-    "status": "no_hard",
-    "n_hard": 0,
+    "status": "hard",
+    "n_hard": 1,
     "n_soft": 1,
     "n_stated": 6,
     "via_alias": false,
-    "items": []
+    "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "对考生身体健康状况的要求，以教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》及有关补充规定为基本依据，具体要求如下： （一）患有下列疾病者，学校有关专业不予录取： 1. 轻度色觉异常（俗称色弱）或色觉异常Ⅱ度（俗称色盲）：化工与制药类（含生物方向）、生…（原文共 184 字）",
+      "truncated": true,
+      "n_chars": 184,
+      "major_named": false,
+      "sentence_index": 33,
+      "span": [
+       2404,
+       2588
+      ],
+      "locator": {
+       "file": "武汉理工大学.txt",
+       "sha12": "effbe0b3cf58",
+       "start": 2404,
+       "end": 2588,
+       "chars": 184,
+       "sentence_index": 33,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "对考生身体健康状况的要求，以教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》及有关补充规定为基本依据，具体要求如下： （一）患有下列疾病者，学校有关专业不予录取： 1. 轻度色觉异常（俗称色弱）或色觉异常Ⅱ度（俗称色盲）：化工与制药类（含生物方向）、生物科学类（中外合作办学）、航海技术、轮机工程、设计学类、动画、产品设计（中外合作办学）；",
+       "start": 2404,
+       "end": 2588,
+       "truncated": false
+      }
+     }
+    ]
    }
   },
   {
@@ -3044,7 +3627,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -3075,6 +3658,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -3130,11 +3742,40 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+      "truncated": false,
+      "n_chars": 132,
+      "major_named": true,
+      "sentence_index": 15,
+      "span": [
+       847,
+       979
+      ],
+      "locator": {
+       "file": "中国海洋大学.txt",
+       "sha12": "9b383b00042e",
+       "start": 847,
+       "end": 979,
+       "chars": 132,
+       "sentence_index": 15,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+       "start": 847,
+       "end": 979,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -3360,7 +4001,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -3391,6 +4032,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -3586,7 +4256,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 1,
+    "n_hard": 2,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -3619,6 +4289,35 @@
        "end": 2970,
        "truncated": false
       }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "2. 色觉异常II度(俗称色盲)不能录取的专业，除同轻度色觉异常外，还有环境设计和地理信息科学专业。",
+      "truncated": false,
+      "n_chars": 50,
+      "major_named": false,
+      "sentence_index": 45,
+      "span": [
+       2970,
+       3021
+      ],
+      "locator": {
+       "file": "西北农林科技大学.txt",
+       "sha12": "920ca2de11db",
+       "start": 2970,
+       "end": 3021,
+       "chars": 51,
+       "sentence_index": 45,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 2. 色觉异常II度(俗称色盲)不能录取的专业，除同轻度色觉异常外，还有环境设计和地理信息科学专业。",
+       "start": 2970,
+       "end": 3021,
+       "truncated": false
+      }
      }
     ]
    }
@@ -3643,7 +4342,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -3675,6 +4374,35 @@
        "start": 1935,
        "end": 2343,
        "truncated": true
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "(2)不招色弱、色盲考生(属于其中任何一种或多种情况即视为体检受限)的专业(类)包括：工业设计、风景园林(未来人居环境方向)、设计学类等专业(类)及其包含的专业。",
+      "truncated": false,
+      "n_chars": 81,
+      "major_named": false,
+      "sentence_index": 39,
+      "span": [
+       2343,
+       2424
+      ],
+      "locator": {
+       "file": "华东理工大学.txt",
+       "sha12": "75b946f31917",
+       "start": 2343,
+       "end": 2424,
+       "chars": 81,
+       "sentence_index": 39,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "(2)不招色弱、色盲考生(属于其中任何一种或多种情况即视为体检受限)的专业(类)包括：工业设计、风景园林(未来人居环境方向)、设计学类等专业(类)及其包含的专业。",
+       "start": 2343,
+       "end": 2424,
+       "truncated": false
       }
      },
      {
@@ -3727,11 +4455,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+      "truncated": false,
+      "n_chars": 132,
+      "major_named": false,
+      "sentence_index": 15,
+      "span": [
+       847,
+       979
+      ],
+      "locator": {
+       "file": "中国海洋大学.txt",
+       "sha12": "9b383b00042e",
+       "start": 847,
+       "end": 979,
+       "chars": 132,
+       "sentence_index": 15,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+       "start": 847,
+       "end": 979,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -3813,7 +4570,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -3845,6 +4602,35 @@
        "start": 1935,
        "end": 2343,
        "truncated": true
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "(2)不招色弱、色盲考生(属于其中任何一种或多种情况即视为体检受限)的专业(类)包括：工业设计、风景园林(未来人居环境方向)、设计学类等专业(类)及其包含的专业。",
+      "truncated": false,
+      "n_chars": 81,
+      "major_named": false,
+      "sentence_index": 39,
+      "span": [
+       2343,
+       2424
+      ],
+      "locator": {
+       "file": "华东理工大学.txt",
+       "sha12": "75b946f31917",
+       "start": 2343,
+       "end": 2424,
+       "chars": 81,
+       "sentence_index": 39,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "(2)不招色弱、色盲考生(属于其中任何一种或多种情况即视为体检受限)的专业(类)包括：工业设计、风景园林(未来人居环境方向)、设计学类等专业(类)及其包含的专业。",
+       "start": 2343,
+       "end": 2424,
+       "truncated": false
       }
      },
      {
@@ -4246,7 +5032,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -4277,6 +5063,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -4334,7 +5149,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -4365,6 +5180,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -4418,11 +5262,69 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 1,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+      "truncated": false,
+      "n_chars": 65,
+      "major_named": false,
+      "sentence_index": 59,
+      "span": [
+       3325,
+       3390
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3325,
+       "end": 3390,
+       "chars": 65,
+       "sentence_index": 59,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+       "start": 3325,
+       "end": 3390,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+      "truncated": false,
+      "n_chars": 85,
+      "major_named": false,
+      "sentence_index": 60,
+      "span": [
+       3390,
+       3475
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3390,
+       "end": 3475,
+       "chars": 85,
+       "sentence_index": 60,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+       "start": 3390,
+       "end": 3475,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -4473,7 +5375,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 3,
+    "n_hard": 4,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -4504,6 +5406,35 @@
        "text": "根据专业培养的实际要求，有以下情况者有关专业不予录取，其中，轻度色觉异常（俗称色弱）不予录取的专业，包含化学、应用化学、生物工程、生物制药、生物医学工程、生物医学工程（中外合作办学）、智能医学工程、资源循环科学与工程、环境工程等专业。",
        "start": 1681,
        "end": 1798,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "色觉异常II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含 环境设计、视觉传达设计、 应用物理学、材料物理、矿物加工工程、冶金工程等专业。",
+      "truncated": false,
+      "n_chars": 74,
+      "major_named": false,
+      "sentence_index": 30,
+      "span": [
+       1798,
+       1872
+      ],
+      "locator": {
+       "file": "东北大学.txt",
+       "sha12": "5ec3d7430373",
+       "start": 1798,
+       "end": 1872,
+       "chars": 74,
+       "sentence_index": 30,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "色觉异常II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含 环境设计、视觉传达设计、 应用物理学、材料物理、矿物加工工程、冶金工程等专业。",
+       "start": 1798,
+       "end": 1872,
        "truncated": false
       }
      },
@@ -4811,7 +5742,7 @@
    "charter": {
     "status": "no_hard",
     "n_hard": 0,
-    "n_soft": 1,
+    "n_soft": 2,
     "n_stated": 0,
     "via_alias": false,
     "items": []
@@ -4923,7 +5854,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -4954,6 +5885,35 @@
        "text": " （一）轻度色觉异常（俗称“色弱”）不予录取专业：生物科学（拔尖班）、智慧林业（尖班）、生物育种科学（尖班）、生物科学类、林学类（梁希实验班）、林业工程类（梁希实验班）、生物科学（中药学复合人才拔尖班）、林学（与林经专业双学士学位项目）、生物技术（与水土保持专业双学士学位项目）、生物技术（与园艺专业双学士学位项目）、生物技术（中外合作办学）、林学类、食品科学与工程、林业工程类、功能材料、新能源科学与工程、野生动物与自然保护区管理、生态学、环境工程等；",
        "start": 2703,
        "end": 2930,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（二）色觉异常Ⅱ度（俗称“色盲”）不予录取专业：除同轻度色觉异常外，还包括地理信息科学、自然地理与资源环境、家具设计与工程（卓越人才实验班）、设计学类等；",
+      "truncated": false,
+      "n_chars": 77,
+      "major_named": false,
+      "sentence_index": 41,
+      "span": [
+       2930,
+       3008
+      ],
+      "locator": {
+       "file": "北京林业大学.txt",
+       "sha12": "93613600a0d6",
+       "start": 2930,
+       "end": 3008,
+       "chars": 78,
+       "sentence_index": 41,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （二）色觉异常Ⅱ度（俗称“色盲”）不予录取专业：除同轻度色觉异常外，还包括地理信息科学、自然地理与资源环境、家具设计与工程（卓越人才实验班）、设计学类等；",
+       "start": 2930,
+       "end": 3008,
        "truncated": false
       }
      },
@@ -5063,12 +6023,42 @@
    "risk_notes": [],
    "b1_notes": [],
    "charter": {
-    "status": "no_hard",
-    "n_hard": 0,
-    "n_soft": 0,
+    "status": "hard",
+    "n_hard": 1,
+    "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
-    "items": []
+    "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "根据专业（类）培养特点，轻度色觉异常（俗称色弱）、色觉异常 II 度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取至工科试验班（宏德书院）、工科试验班（未来生物科技）、工科试验班（化工与能源）、工科试验班（先进材料）、工…（原文共 256 字）",
+      "truncated": true,
+      "n_chars": 256,
+      "major_named": true,
+      "sentence_index": 47,
+      "span": [
+       2609,
+       2865
+      ],
+      "locator": {
+       "file": "北京化工大学.txt",
+       "sha12": "b246cf7294b9",
+       "start": 2609,
+       "end": 2865,
+       "chars": 256,
+       "sentence_index": 47,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "根据专业（类）培养特点，轻度色觉异常（俗称色弱）、色觉异常 II 度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取至工科试验班（宏德书院）、工科试验班（未来生物科技）、工科试验班（化工与能源）、工科试验班（先进材料）、工科试验班（生物与医药）、理科试验班（化学基础拔尖）、理科试验班（绿色化学）、化学工程与工艺、环境工程、生物工程、制药工程、新能源材料与器件、材料科学与工程、化学、化工与制药类（中外合作办学）（中法精英工程教育试验班）、设计学类专业。",
+       "start": 2609,
+       "end": 2865,
+       "truncated": false
+      }
+     }
+    ]
    }
   },
   {
@@ -5091,11 +6081,40 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+      "truncated": false,
+      "n_chars": 132,
+      "major_named": true,
+      "sentence_index": 15,
+      "span": [
+       847,
+       979
+      ],
+      "locator": {
+       "file": "中国海洋大学.txt",
+       "sha12": "9b383b00042e",
+       "start": 847,
+       "end": 979,
+       "chars": 132,
+       "sentence_index": 15,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+       "start": 847,
+       "end": 979,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -5179,7 +6198,7 @@
    "charter": {
     "status": "no_hard",
     "n_hard": 0,
-    "n_soft": 1,
+    "n_soft": 2,
     "n_stated": 0,
     "via_alias": false,
     "items": []
@@ -5206,11 +6225,69 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 1,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+      "truncated": false,
+      "n_chars": 65,
+      "major_named": false,
+      "sentence_index": 59,
+      "span": [
+       3325,
+       3390
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3325,
+       "end": 3390,
+       "chars": 65,
+       "sentence_index": 59,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+       "start": 3325,
+       "end": 3390,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+      "truncated": false,
+      "n_chars": 85,
+      "major_named": false,
+      "sentence_index": 60,
+      "span": [
+       3390,
+       3475
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3390,
+       "end": 3475,
+       "chars": 85,
+       "sentence_index": 60,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+       "start": 3390,
+       "end": 3475,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -5261,7 +6338,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
@@ -5292,6 +6369,35 @@
        "text": "其中，与色彩辨识密切相关，轻度色觉异常（俗称色弱）不予录取的专业，包含但不限于化学类、 化学工程与工艺、 医学类、药学类、生物科学类、动物科学、地质学类、草业科学、生态学、环境 科学与 工程、核化工与核燃料、材料化学、新能源材料与器件 、 生物制药 等 相关 专业 ；",
        "start": 1690,
        "end": 1824,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "与色彩辨识密切相关，色觉异常 II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含但不限于 设计学类、 应用物理学、 辐射防护与核安全、核科学与核技术、 地理科学、应用气象学、 文物与 博物馆学、材料物理 、 资源勘查工程 等专业 ；",
+      "truncated": false,
+      "n_chars": 121,
+      "major_named": false,
+      "sentence_index": 30,
+      "span": [
+       1824,
+       1946
+      ],
+      "locator": {
+       "file": "兰州大学.txt",
+       "sha12": "8a5a6eec074e",
+       "start": 1824,
+       "end": 1946,
+       "chars": 122,
+       "sentence_index": 30,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 与色彩辨识密切相关，色觉异常 II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含但不限于 设计学类、 应用物理学、 辐射防护与核安全、核科学与核技术、 地理科学、应用气象学、 文物与 博物馆学、材料物理 、 资源勘查工程 等专业 ；",
+       "start": 1824,
+       "end": 1946,
        "truncated": false
       }
      },
@@ -5347,7 +6453,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -5378,6 +6484,35 @@
        "text": " （一）轻度色觉异常（俗称“色弱”）不予录取专业：生物科学（拔尖班）、智慧林业（尖班）、生物育种科学（尖班）、生物科学类、林学类（梁希实验班）、林业工程类（梁希实验班）、生物科学（中药学复合人才拔尖班）、林学（与林经专业双学士学位项目）、生物技术（与水土保持专业双学士学位项目）、生物技术（与园艺专业双学士学位项目）、生物技术（中外合作办学）、林学类、食品科学与工程、林业工程类、功能材料、新能源科学与工程、野生动物与自然保护区管理、生态学、环境工程等；",
        "start": 2703,
        "end": 2930,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（二）色觉异常Ⅱ度（俗称“色盲”）不予录取专业：除同轻度色觉异常外，还包括地理信息科学、自然地理与资源环境、家具设计与工程（卓越人才实验班）、设计学类等；",
+      "truncated": false,
+      "n_chars": 77,
+      "major_named": false,
+      "sentence_index": 41,
+      "span": [
+       2930,
+       3008
+      ],
+      "locator": {
+       "file": "北京林业大学.txt",
+       "sha12": "93613600a0d6",
+       "start": 2930,
+       "end": 3008,
+       "chars": 78,
+       "sentence_index": 41,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （二）色觉异常Ⅱ度（俗称“色盲”）不予录取专业：除同轻度色觉异常外，还包括地理信息科学、自然地理与资源环境、家具设计与工程（卓越人才实验班）、设计学类等；",
+       "start": 2930,
+       "end": 3008,
        "truncated": false
       }
      },
@@ -5434,7 +6569,7 @@
    "charter": {
     "status": "no_hard",
     "n_hard": 0,
-    "n_soft": 1,
+    "n_soft": 2,
     "n_stated": 0,
     "via_alias": false,
     "items": []
@@ -5542,11 +6677,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 3,
+    "n_hard": 4,
     "n_soft": 0,
-    "n_stated": 0,
+    "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工…（原文共 153 字）",
+      "truncated": true,
+      "n_chars": 153,
+      "major_named": false,
+      "sentence_index": 42,
+      "span": [
+       2820,
+       2973
+      ],
+      "locator": {
+       "file": "合肥工业大学.txt",
+       "sha12": "c6b9485ac46f",
+       "start": 2820,
+       "end": 2973,
+       "chars": 153,
+       "sentence_index": 42,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工程 、 环境 设计 专业。",
+       "start": 2820,
+       "end": 2973,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -5766,7 +6930,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -5797,6 +6961,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -5907,7 +7100,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 2,
     "n_stated": 1,
     "via_alias": false,
@@ -5938,6 +7131,35 @@
        "text": " 特别需要指出： 1. 轻度色觉异常（俗称色弱）不能录取的专业：化学工程与工艺、化学、高分子材料与工程、生物科学、食品科学与工程、生物工程、生物制药、应用心理学专业。",
        "start": 1060,
        "end": 1143,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "2.色觉异常Ⅱ度（俗称色盲）不能录取的专业：除同 轻度色觉异常 外，还包括视觉传达设计、环境设计、绘画专业。",
+      "truncated": false,
+      "n_chars": 54,
+      "major_named": false,
+      "sentence_index": 18,
+      "span": [
+       1143,
+       1198
+      ],
+      "locator": {
+       "file": "安徽大学.txt",
+       "sha12": "b610a4b66b48",
+       "start": 1143,
+       "end": 1198,
+       "chars": 55,
+       "sentence_index": 18,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 2.色觉异常Ⅱ度（俗称色盲）不能录取的专业：除同 轻度色觉异常 外，还包括视觉传达设计、环境设计、绘画专业。",
+       "start": 1143,
+       "end": 1198,
        "truncated": false
       }
      },
@@ -5995,7 +7217,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 0,
     "via_alias": false,
@@ -6026,6 +7248,35 @@
        "text": "考生患有《指导意见》第一条中列出的六大类疾病及以下情况者，不予录取： 1．轻度色觉异常（俗称色弱）不能录取的专业 为 ：化学、生物科学、生物技术专业所有招生方向 ；",
        "start": 2420,
        "end": 2502,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "2．色觉异常II度（俗称色盲） ， 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者 ， 不能录取的专业 为 ：化学、生物科学、生物技术、美术学、绘画、视觉传达设计专业所有招生方向。",
+      "truncated": false,
+      "n_chars": 109,
+      "major_named": false,
+      "sentence_index": 50,
+      "span": [
+       2502,
+       2612
+      ],
+      "locator": {
+       "file": "华中师范大学.txt",
+       "sha12": "81ef116ba6be",
+       "start": 2502,
+       "end": 2612,
+       "chars": 110,
+       "sentence_index": 50,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 2．色觉异常II度（俗称色盲） ， 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者 ， 不能录取的专业 为 ：化学、生物科学、生物技术、美术学、绘画、视觉传达设计专业所有招生方向。",
+       "start": 2502,
+       "end": 2612,
        "truncated": false
       }
      },
@@ -6225,7 +7476,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -6256,6 +7507,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -6309,7 +7589,7 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 2,
     "n_stated": 1,
     "via_alias": false,
@@ -6340,6 +7620,35 @@
        "text": " 特别需要指出： 1. 轻度色觉异常（俗称色弱）不能录取的专业：化学工程与工艺、化学、高分子材料与工程、生物科学、食品科学与工程、生物工程、生物制药、应用心理学专业。",
        "start": 1060,
        "end": 1143,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "2.色觉异常Ⅱ度（俗称色盲）不能录取的专业：除同 轻度色觉异常 外，还包括视觉传达设计、环境设计、绘画专业。",
+      "truncated": false,
+      "n_chars": 54,
+      "major_named": false,
+      "sentence_index": 18,
+      "span": [
+       1143,
+       1198
+      ],
+      "locator": {
+       "file": "安徽大学.txt",
+       "sha12": "b610a4b66b48",
+       "start": 1143,
+       "end": 1198,
+       "chars": 55,
+       "sentence_index": 18,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 2.色觉异常Ⅱ度（俗称色盲）不能录取的专业：除同 轻度色觉异常 外，还包括视觉传达设计、环境设计、绘画专业。",
+       "start": 1143,
+       "end": 1198,
        "truncated": false
       }
      },
@@ -6392,12 +7701,42 @@
    "risk_notes": [],
    "b1_notes": [],
    "charter": {
-    "status": "no_hard",
-    "n_hard": 0,
+    "status": "hard",
+    "n_hard": 1,
     "n_soft": 0,
     "n_stated": 0,
     "via_alias": false,
-    "items": []
+    "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "其中，色觉异常 Ⅱ 度（俗称 “ 色盲 ” ）不予录取的专业为建筑学、产品设计。",
+      "truncated": false,
+      "n_chars": 40,
+      "major_named": false,
+      "sentence_index": 42,
+      "span": [
+       2670,
+       2710
+      ],
+      "locator": {
+       "file": "西北工业大学.txt",
+       "sha12": "a39a362cca13",
+       "start": 2670,
+       "end": 2710,
+       "chars": 40,
+       "sentence_index": 42,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "其中，色觉异常 Ⅱ 度（俗称 “ 色盲 ” ）不予录取的专业为建筑学、产品设计。",
+       "start": 2670,
+       "end": 2710,
+       "truncated": false
+      }
+     }
+    ]
    }
   },
   {
@@ -6562,7 +7901,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 3,
+    "n_hard": 4,
     "n_soft": 1,
     "n_stated": 1,
     "via_alias": false,
@@ -6593,6 +7932,35 @@
        "text": "根据专业培养的实际要求，有以下情况者有关专业不予录取，其中，轻度色觉异常（俗称色弱）不予录取的专业，包含化学、应用化学、生物工程、生物制药、生物医学工程、生物医学工程（中外合作办学）、智能医学工程、资源循环科学与工程、环境工程等专业。",
        "start": 1681,
        "end": 1798,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "色觉异常II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含 环境设计、视觉传达设计、 应用物理学、材料物理、矿物加工工程、冶金工程等专业。",
+      "truncated": false,
+      "n_chars": 74,
+      "major_named": false,
+      "sentence_index": 30,
+      "span": [
+       1798,
+       1872
+      ],
+      "locator": {
+       "file": "东北大学.txt",
+       "sha12": "5ec3d7430373",
+       "start": 1798,
+       "end": 1872,
+       "chars": 74,
+       "sentence_index": 30,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "色觉异常II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含 环境设计、视觉传达设计、 应用物理学、材料物理、矿物加工工程、冶金工程等专业。",
+       "start": 1798,
+       "end": 1872,
        "truncated": false
       }
      },
@@ -6677,7 +8045,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
@@ -6708,6 +8076,35 @@
        "text": " 根据专业特点，学校部分专业（类）对体检色觉异常考生不予录取，具体如下： 1. 不招色弱、色盲、单色识别不全考生的专业（类） ： 学前教育 、 特殊教育 、 化学 、 化学类 、 环境科学与工程 、 自然保护与环境生态类 ；",
        "start": 3544,
        "end": 3656,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "2. 不招色盲 、单色识别不全 考生 的专业（类） ： 心理学 、 心理学 （ 中外合作办学 ） 、 应用心理学 、 雕塑 、 绘画 、 美术学 、 视觉传达设计 、 量子信息科学 、 材料类 、 地理科学 、 智慧农业 、 植物科学与技术 （ 中外合作办学 ） 、 生物育种科学…（原文共 288 字）",
+      "truncated": true,
+      "n_chars": 288,
+      "major_named": false,
+      "sentence_index": 57,
+      "span": [
+       3656,
+       3945
+      ],
+      "locator": {
+       "file": "西南大学.txt",
+       "sha12": "7f263e8b6087",
+       "start": 3656,
+       "end": 3945,
+       "chars": 289,
+       "sentence_index": 57,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " 2. 不招色盲 、单色识别不全 考生 的专业（类） ： 心理学 、 心理学 （ 中外合作办学 ） 、 应用心理学 、 雕塑 、 绘画 、 美术学 、 视觉传达设计 、 量子信息科学 、 材料类 、 地理科学 、 智慧农业 、 植物科学与技术 （ 中外合作办学 ） 、 生物育种科学 、 植物生产类 、 园林 、 风景园林 、 蚕学 （ 双学士学位 ） 、 生物技术 、 生物技术 （ 中外合作办学 ） 、 生物质科学与工程 、纤维科学与智能制造、 动物科学 、 动物医学类 （ 五年制 ） 、 动物药学 、 生物科学 、 药学 、 药学 （ 中外合作办学 ） 、 制药工程 。",
+       "start": 3656,
+       "end": 3945,
        "truncated": false
       }
      },
@@ -6763,11 +8160,40 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 0,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+      "truncated": false,
+      "n_chars": 132,
+      "major_named": false,
+      "sentence_index": 15,
+      "span": [
+       847,
+       979
+      ],
+      "locator": {
+       "file": "中国海洋大学.txt",
+       "sha12": "9b383b00042e",
+       "start": 847,
+       "end": 979,
+       "chars": 132,
+       "sentence_index": 15,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。",
+       "start": 847,
+       "end": 979,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -6876,11 +8302,69 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 1,
+    "n_hard": 3,
     "n_soft": 0,
     "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+      "truncated": false,
+      "n_chars": 65,
+      "major_named": false,
+      "sentence_index": 59,
+      "span": [
+       3325,
+       3390
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3325,
+       "end": 3390,
+       "chars": 65,
+       "sentence_index": 59,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；",
+       "start": 3325,
+       "end": 3390,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+      "truncated": false,
+      "n_chars": 85,
+      "major_named": false,
+      "sentence_index": 60,
+      "span": [
+       3390,
+       3475
+      ],
+      "locator": {
+       "file": "中央民族大学.txt",
+       "sha12": "153ae041fa66",
+       "start": 3390,
+       "end": 3475,
+       "chars": 85,
+       "sentence_index": 60,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；",
+       "start": 3390,
+       "end": 3475,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -7079,7 +8563,7 @@
    ],
    "charter": {
     "status": "hard",
-    "n_hard": 2,
+    "n_hard": 3,
     "n_soft": 1,
     "n_stated": 2,
     "via_alias": false,
@@ -7110,6 +8594,35 @@
        "text": " 2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科学、 康复治疗学、护理学、动物医学、动物科学、 考古学（匡亚明班，拔尖学生培养基地）、考 古学（含考古学、文物与博物馆学）、植物生产类（含农学、植物保护、农业资源与环境）专业。",
        "start": 2474,
        "end": 2703,
+       "truncated": false
+      }
+     },
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+      "truncated": false,
+      "n_chars": 58,
+      "major_named": false,
+      "sentence_index": 55,
+      "span": [
+       2703,
+       2762
+      ],
+      "locator": {
+       "file": "吉林大学.txt",
+       "sha12": "ec14d718519f",
+       "start": 2703,
+       "end": 2762,
+       "chars": 59,
+       "sentence_index": 55,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": " （ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。",
+       "start": 2703,
+       "end": 2762,
        "truncated": false
       }
      },
@@ -7278,11 +8791,40 @@
    "b1_notes": [],
    "charter": {
     "status": "hard",
-    "n_hard": 3,
+    "n_hard": 4,
     "n_soft": 0,
-    "n_stated": 0,
+    "n_stated": 1,
     "via_alias": false,
     "items": [
+     {
+      "category": "vision",
+      "category_cn": "视力 / 色觉",
+      "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工…（原文共 153 字）",
+      "truncated": true,
+      "n_chars": 153,
+      "major_named": false,
+      "sentence_index": 42,
+      "span": [
+       2820,
+       2973
+      ],
+      "locator": {
+       "file": "合肥工业大学.txt",
+       "sha12": "c6b9485ac46f",
+       "start": 2820,
+       "end": 2973,
+       "chars": 153,
+       "sentence_index": 42,
+       "ok": true,
+       "reasons": []
+      },
+      "context": {
+       "text": "特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工程 、 环境 设计 专业。",
+       "start": 2820,
+       "end": 2973,
+       "truncated": false
+      }
+     },
      {
       "category": "vision",
       "category_cn": "视力 / 色觉",
@@ -7378,19 +8920,19 @@
   "available": true,
   "counts": {
    "n_rows": 96,
-   "n_hard_rows": 75,
-   "n_no_hard_rows": 17,
+   "n_hard_rows": 80,
+   "n_no_hard_rows": 12,
    "n_uncovered_rows": 4,
-   "n_rules": 68,
-   "n_soft_rules": 24,
-   "n_stated_rules": 31,
+   "n_rules": 87,
+   "n_soft_rules": 29,
+   "n_stated_rules": 33,
    "uncovered_slots": [
     26,
     59,
     73,
     77
    ],
-   "n_major_named_rows": 13,
+   "n_major_named_rows": 18,
    "n_alias_rows": 0,
    "uncovered_alias_declared": []
   },
@@ -7407,14 +8949,14 @@
    "absolute_bao": "绝对保底"
   },
   "section_title": "## 四、章程原文限制（退档风险）",
-  "section_md": "## 四、章程原文限制（退档风险）\n\n> 本节逐字引用**你填的这几所学校**招生章程里的**硬性限制条款**（不予录取 / 只招 / 仅限 / 限报 / 退档 一类），来源 = 招生章程正文抽取表（3,778 条可回溯规则）。只取**普通类本科**面（不含艺术 / 体育 / 专科 / 专项计划）；条文**逐字引用，未改写、未推断**，适用范围以章程原文为准 —— 原文没点名你的专业，不等于与你无关，填表前请对照当年招生章程核对。\n\n- 本表 **96** 条志愿：**75** 条的学校章程有硬性限制原文（共 **68** 条不重复条款，逐条列在下面）、**17** 条的学校章程已核对但未抽到硬性限制条款、**4** 条的学校章程**未覆盖**（列在末段）。\n- 另计 **24** 条「建议级」与 **31** 条「只陈述数值」条款**未列入本节**：它们不构成退档依据（「建议身高」≠「不予录取」），禁与上面的硬性限制混算。\n- 其中 **13** 条的原文**逐字点名了你的专业**（下面标「原文点名本条专业」）—— 这类条款与你直接相关，务必先读原文再决定是否保留。\n\n- **第 1 条** · 空军军医大学 ·【应届】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十一条 学校只招收普通高中应届毕业生，且政治面貌为中共党员或共青团员，文理科类别为理科，高考改革省份报考学校各专业均须选考物理、化学，招生各专业无男女生比例限制，学员入学后外语教学为英语。」（章程第 20 句）\n- **第 1 条** · 空军军医大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「各专业对色盲、色弱者不予录取。」（章程第 22 句）\n- **第 2 条** · 哈尔滨医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据国家规定，色觉异常（色盲、色弱）考生不予录取医学类、药学类、生物科学类、生物医学工程专业。」（章程第 16 句）\n- **第 3、9、39 条** · 中国地质大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常 II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包括：地理信息科学，地球物理学。」（章程第 34 句）\n- **第 3、9、39 条** · 中国地质大学 ·【视力 / 色觉】· **原文点名本条专业**：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取的专业：除同轻度色觉异常、色觉异常 II度两类列出专业外，还包括：计算机科学与技术，数据科学与大数据技术，工商管理，会计学，经济学，经济学（与资勘专业双学士学位），数字经济，信息管理与信息…（原文共 182 字）」（章程第 35 句）\n- **第 4、10 条** · 东华大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「8. 色觉异常Ⅱ度（俗称色盲）不予录取的专业：除同轻度色觉异常外还包括应用物理学、无机非金属材料工程。」（章程第 51 句）\n- **第 4、10 条** · 东华大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「9. 不能准确识别 红、黄、绿、兰、紫 各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取的专业除同轻度色觉异常、色觉异常II度两类列出专业外，还包括信息管理与信息系统、市场营销、会计学、财务管理、工商管理、公共关系学、行政管理专业。」（章程第 52 句）\n- **第 6、63 条** · 对外经济贸易大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十 二 条 学校除英语、德语、法语、西班牙语、意大利语、日语、阿拉伯语、俄语、葡萄牙语、朝鲜语、希腊语、波斯语、越南语语言类专业 只 招英语考生外，其他所有专业不限外语应试语种。」（章程第 16 句）\n- **第 6、63 条** · 对外经济贸易大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「20 26 年我校对第二条 “ 患有下列疾病者，学校有关专业可不予录取 ” 中的第2小条“不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常 Ⅱ 度两类列出专业外，还包括经济学类、管理科学与工程类、工商管…（原文共 167 字）」（章程第 33 句）\n- **第 7、89 条** · 西南大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第二十 五 条 学校英语专业只招收英语语种考生，对省级招生考试机构统一组织英语口试的省（自治区、直辖市），考生须参加口试且成绩合格；」（章程第 45 句）\n- **第 7、89 条** · 西南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据专业特点，学校部分专业（类）对体检色觉异常考生不予录取，具体如下： 1. 不招色弱、色盲、单色识别不全考生的专业（类） ： 学前教育 、 特殊教育 、 化学 、 化学类 、 环境科学与工程 、 自然保护与环境生态类 ；」（章程第 56 句）\n- **第 8、30 条** · 中国农业大学 ·【视力 / 色觉】· **原文点名本条专业**：「除规定的条目外，根据学校专业培养的实际要求，对考生身体健康状况作以下补充规定： 有以下情况者，学校有关专业不予录取： 1．轻度色觉异常（俗称色弱）不能录取的专业：理科试验班（生命科学）、生物育种科学、农学、种子科学与工程、园艺、园林、植物保护、生物科学、生物技术、生态学、环境工程…（原文共 237 字）」（章程第 50 句）\n- **第 8、30 条** · 中国农业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2．色觉异常 Ⅱ 度（俗称色盲）不能录取的专业，除上述轻度色觉异常不能录取的专业外，还包括应用气象学、地理信息科学等专业。」（章程第 51 句）\n- **第 8、30 条** · 中国农业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3．不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除上述轻度色觉异常、色觉异常 Ⅱ 度两类列出的专业外，还包括土地资源管理、土地科学与技术、国际经济与贸易、金融学、农林经济管理、工商管理、会计学、电子商务、大数据管理与应用、农…（原文共 187 字）」（章程第 52 句）\n- **第 11、35、36、75、96 条** · 合肥工业大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十八条 英语、印度尼西亚语专业只招收外语语种为英语的考生， 中外合作办学 专业部分课程采用英语授课，建议非英语考生慎重报考；」（章程第 33 句）\n- **第 11、35、36、75、96 条** · 合肥工业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（ 2）色觉异常Ⅱ度（俗称色盲）不能录取的专业，除同轻度色觉异常外，还包括 应用物理学、量子信息科学、资源勘查工程、地球信息科学与技术 、遥感科学与技术、无机非金属材料工程专业 。」（章程第 43 句）\n- **第 11、35、36、75、96 条** · 合肥工业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（ 3）不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济学 、 会计学专业。」（章程第 44 句）\n- **第 12、52、60、80 条** · 暨南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据专业特点， 临床医学（含校本部班、省二医班、深圳班和全英语教学等 4个专业）、口腔医学、预防医学、中医学、护理学、药学（含全英语教学 、 笃行精药班 等 3 个专业）、中药学、生物制药等 1 3 个专业 ， 色盲、色弱考生 限报 。」（章程第 53 句）\n- **第 13、18、27、43、46、55、56、79、84、94 条** · 吉林大学 ·【视力 / 色觉】· **原文点名本条专业**：「2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科…（原文共 228 字）」（章程第 54 句）\n- **第 13、18、27、43、46、55、56、79、84、94 条** · 吉林大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（ 3） 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常 II度两类列出专业外，还包括市场营销、地质类（含地质学、资源勘查工程、土地资源管理）、档案学专业。」（章程第 56 句）\n- **第 14、48 条** · 西北农林科技大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「有以下情况者，学校有关专业不能录取，请有关考生谨慎报考： 1. 轻度色觉异常（俗称色弱）不能录取的专业：农学、种子科学与工程、植物科学与技术、智慧农业、生物育种科学、植物保护、制药工程、园艺、茶学、动物科学、水产养殖学、智慧牧业科学与工程、动物医学、动物药学、园林、林学、森林保护…（原文共 236 字）」（章程第 44 句）\n- **第 15、95 条** · 长安大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（二）患有下列疾病者，有关专业不予录取 1. 轻度色觉异常（俗称色弱）不能录取的专业：化学工程与工艺、地质学、环境工程、高分子材料与工程专业。」（章程第 43 句）\n- **第 15、95 条** · 长安大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 色觉异常 II 度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括应用物理学、矿物加工工程、资源勘查工程、交通运输专业。」（章程第 44 句）\n- **第 15、95 条** · 长安大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济统计学、工程管理、大数据管理与应用、工商管理、会计学、行政管理专业。」（章程第 45 句）\n- **第 17、57、69、92 条** · 中央民族大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济学类中的经济学专业、数字经济、工商管理类、公共管理类专业；」（章程第 61 句）\n- **第 19 条** · 中国传媒大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十 五 条 外语类专业只招英语语种的考生 ， 其他专业不限制考生应试的外语语种 。」（章程第 23 句）\n- **第 20 条** · 首都医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不招 色盲、色弱 、 斜视、弱视 及其他各类不能准确识别颜色者；」（章程第 32 句）\n- **第 21 条** · 北京科技大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第二十一条 外国语言文学类（包含英语、日语、德语）专业只招收外语语种为英语的考生；」（章程第 36 句）\n- **第 21 条** · 北京科技大学 ·【视力 / 色觉】· **原文点名本条专业**：「附件： 北京科技大学2026年本科招生专业（类）目录 招生专业（类） 包含专业 培养政策 培养地点 体检限报 改革省份 选科要求 智能建造（智慧城市与工程诊治） 智能建造、土木工程、建筑环境与能源应用工程 入学后可参加未来城市创新班选拔 一、二年级在北京校区，三、四年级在雄安校区…（原文共 441 字）」（章程第 60 句）\n- **第 22、44、50、67、90 条** · 中国海洋大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常Ⅱ度（俗称色盲）原则上不予录取的专业，除同轻度色觉异常外，还包含大气科学专业。」（章程第 16 句）\n- **第 22、44、50、67、90 条** · 中国海洋大学 ·【视力 / 色觉】· **原文点名本条专业**：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者原则上不予录取的专业，除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济学、工商管理、市场营销、会计学、财务管理、公共事业管理、行政管理专业。」（章程第 17 句）\n- **第 23、29 条** · 哈尔滨工程大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「其中：轻度色觉异常（俗称色弱）不予录取的专业：化学工程与工艺；」（章程第 26 句）\n- **第 23、29 条** · 哈尔滨工程大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常II度（俗称色盲）不予录取的专业：化学工程与工艺、材料物理（中外合作办学）；」（章程第 27 句）\n- **第 23、29 条** · 哈尔滨工程大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十九条 学校英语专业只招收英语考生，不加试口语。」（章程第 32 句）\n- **第 25 条** · 南方医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据国家有关规定，学校除法学（卫生法学）、健康服务与管理、公共事业管理、外国语言文学类专业外，其他专业不招收色盲色弱考生。」（章程第 44 句）\n- **第 28 条** · 北京中医药大学 ·【视力 / 色觉】· **原文点名本条专业**：「根据专业培养和就业特点，从对考生负责、维护考生利益的原则出发，色盲、色弱及其他各类不能准确识别颜色考生不予录取至医药学类 （中医学、中西医临床医学、针灸推拿学、中医骨伤科学、中药学、中药制药、药学、药事管理、护理学） 、生物工程专业；」（章程第 41 句）\n- **第 34 条** · 南京医科大学 ·【视力 / 色觉】· **原文点名本条专业**：「其中， 1. 轻度色觉异常（俗称色弱）不能录取的专业：临床医学（天元卓越班）、预防医学（天元创新班）、基础医学（天元创新班）、临床医学（ 5+3 一体化）、临床医学（ 5+3 一体化，儿科学）、口腔医学（ 5+3 一体化）、临床医学、医学影像学、儿科学、精神医学、眼视光医学、放射…（原文共 227 字）」（章程第 35 句）\n- **第 34 条** · 南京医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 色觉异常Ⅱ度（俗称色盲）不能录取的专业：同轻度色觉异常所列专业；」（章程第 36 句）\n- **第 34 条** · 南京医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类所列专业外，还包括公共事业管理（卫生事业管理）、医疗保险。」（章程第 37 句）\n- **第 34 条** · 南京医科大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第二十条 英语专业只 招收 高考外语语种为英语的考生，其他专业不限外语语种，新生进校后均以英语为第一外语安排教学；」（章程第 41 句）\n- **第 37、70 条** · 兰州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「其中，与色彩辨识密切相关，轻度色觉异常（俗称色弱）不予录取的专业，包含但不限于化学类、 化学工程与工艺、 医学类、药学类、生物科学类、动物科学、地质学类、草业科学、生态学、环境 科学与 工程、核化工与核燃料、材料化学、新能源材料与器件 、 生物制药 等 相关 专业 ；」（章程第 29 句）\n- **第 37、70 条** · 兰州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业，除同轻度色觉异常、色觉异常 Ⅱ度两类列出专业外，还包括经济学类、 信息管理与信息系统 、工商管理类等专业 ；」（章程第 31 句）\n- **第 45、87 条** · 中国矿业大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十二条 根据学校专业设置及培养方式，部分专业的特殊要求： 1. 英语专业只招英语语种考生。」（章程第 40 句）\n- **第 45、87 条** · 中国矿业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「轻度色觉异常（俗称色弱）考生不能录取至化学工程与工艺、环境工程专业；」（章程第 43 句）\n- **第 45、87 条** · 中国矿业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常 Ⅱ度（俗称色盲）考生不能录取的专业，除同轻度色觉异常外，还包括矿物加工工程、资源勘查工程专业；」（章程第 44 句）\n- **第 45、87 条** · 中国矿业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不能录取的专业，除同轻度色觉异常、色觉异常Ⅱ度外，还包括 工商管理 、 会计学 、行政管理专业；」（章程第 45 句）\n- **第 47、61、93 条** · 江南大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「五、外语要求 英语 、 日语 专业只招收英语语种的考生，其他专业不限考生的应试外语语种。」（章程第 9 句）\n- **第 47、61、93 条** · 江南大学 ·【视力 / 色觉】· **原文点名本条专业**：「（二）患有下列疾病者，有关专业不予录取 1. 轻度色觉异常 （ 俗称色弱 ） 不能录取的专业：食品科学与工程、食品科学与工程（食品 AI 卓越创新班）、 食品科学与工程（ 筑基领军班 ） 、 食品科学与工程（中外合作办学）、生物工程、生物工程（国家生命科学与技术人才培养基地班） …（原文共 254 字）」（章程第 13 句）\n- **第 47、61、93 条** · 江南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 色觉异常 II 度 （ 俗称色盲 ） 不能录取的专业：同轻度色觉异常。」（章程第 14 句）\n- **第 47、61、93 条** · 江南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常 II 度两类列出专业外，还包括 数字经济、 大数据管理与应用、大数据管理与应用 （ 中外合作办学 ）、 工商管理、工商管理（中外合作办学）、会计学…（原文共 144 字）」（章程第 15 句）\n- **第 49、51 条** · 华东理工大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「(1)不招色弱、色盲、嗅觉迟钝考生(属于其中任何一种或多种情况即视为体检受限 ) 的专业(类) 包括：工科试验班(生物医药)、工科试验班(智慧化工)、工科试验班(能源与环境)、化学(教育部拔尖基地班)、化学类(新工科化学实验班)、化学类(智创化学实验班)、生物工程类、 制药工程(…（原文共 408 字）」（章程第 38 句）\n- **第 49、51 条** · 华东理工大学 ·【视力 / 色觉】· **原文点名本条专业**：「(3)不招色盲考生的 专业(类)包括 ：工科试验班(智能与机器人)、电子信息类、机械类(机械智能化实验班)、物理学类等专业(类)及其包含的专业。」（章程第 40 句）\n- **第 53、54、83 条** · 苏州大学 ·【视力 / 色觉】· **原文点名本条专业**：「⑵轻度色觉异常（俗称色弱）不能录取的专业：生物制药（含中外合作办学）、药学（含中外合作办学、拔尖创新班）、临床医学（含 5+3一体化）、医学影像学、放射医学、儿科学、口腔医学、预防医学、法医学、医学检验技术、护理学。」（章程第 31 句）\n- **第 53、54、83 条** · 苏州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「⑶色觉异常 II度（俗称色盲）不能录取的专业，除同轻度色觉异常外，还包括 化学（含师范、拔尖创新班、双学士学位培养项目）、材料类、化学工程与工艺、 轻化工程。」（章程第 32 句）\n- **第 53、54、83 条** · 苏州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「⑷单色识别不全不能录取的专业：不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业，同轻度色觉异常、色觉异常 II度两类列出专业。」（章程第 33 句）\n- **第 53、54、83 条** · 苏州大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3.高考外语语种要求：外国语言文学类专业，只招收英语语种考生；」（章程第 35 句）\n- **第 58、88 条** · 东北大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据专业培养的实际要求，有以下情况者有关专业不予录取，其中，轻度色觉异常（俗称色弱）不予录取的专业，包含化学、应用化学、生物工程、生物制药、生物医学工程、生物医学工程（中外合作办学）、智能医学工程、资源循环科学与工程、环境工程等专业。」（章程第 29 句）\n- **第 58、88 条** · 东北大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业，除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括金融学、经济学、信息管理与信息系统、工业工程、工业工程（双学士学位项目，与自动化合办）、工商管理、市场营销、会计学、 会计学（双…（原文共 179 字）」（章程第 31 句）\n- **第 58、88 条** · 东北大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「外国语言文学类（含英语、日语［区域与国别］、俄语、德语）专业只招收外语语种为英语的考生。」（章程第 54 句）\n- **第 64、71 条** · 北京林业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（一）轻度色觉异常（俗称“色弱”）不予录取专业：生物科学（拔尖班）、智慧林业（尖班）、生物育种科学（尖班）、生物科学类、林学类（梁希实验班）、林业工程类（梁希实验班）、生物科学（中药学复合人才拔尖班）、林学（与林经专业双学士学位项目）、生物技术（与水土保持专业双学士学位项目）、生…（原文共 226 字）」（章程第 40 句）\n- **第 64、71 条** · 北京林业大学 ·【视力 / 色觉】· **原文点名本条专业**：「（三）不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取专业：除同轻度色觉异常、色觉异常Ⅱ度外，还包括农林经济管理（梁希实验班）、工商管理类、国际经济与贸易、金融学、数字经济、大数据管理与应用、电气工程及其自动化、自动化、计算机类、网络工…（原文共 163 字）」（章程第 42 句）\n- **第 65 条** · 上海财经大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「5. 商务英语专业只招外语选考英语的考生；」（章程第 28 句）\n- **第 74 条** · 中国社会科学院大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）不能录取到以颜色波长作为严格技术标准的考古学等专业；」（章程第 18 句）\n- **第 76 条** · 天津医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「考生患有《指导意见》第二条第 1项、第2项所列疾病（色盲、色弱） ， 除公共事业管理专业外， 我校 2026 年 其他 本科招生专业均不 予 录取 。」（章程第 102 句）\n- **第 81、85 条** · 安徽大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「特别需要指出： 1. 轻度色觉异常（俗称色弱）不能录取的专业：化学工程与工艺、化学、高分子材料与工程、生物科学、食品科学与工程、生物工程、生物制药、应用心理学专业。」（章程第 17 句）\n- **第 81、85 条** · 安徽大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3.不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同 轻度色觉异常、色觉异常 Ⅱ度两类列出专业 外，还包括经济统计学、大数据管理与应用专业。」（章程第 19 句）\n- **第 82 条** · 华中师范大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十八条 我校 英语专业 所有招生方向 只招收 全国统考 英语语种考生，其余各专业（类）不限考生的应试外语语种。」（章程第 45 句）\n- **第 82 条** · 华中师范大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「考生患有《指导意见》第一条中列出的六大类疾病及以下情况者，不予录取： 1．轻度色觉异常（俗称色弱）不能录取的专业 为 ：化学、生物科学、生物技术专业所有招生方向 ；」（章程第 49 句）\n\n- **章程未覆盖**（本版规则表里没有这些学校）：中国石油大学(华东)（第 59、77 条）；山东大学威海分校（第 26 条）；电子科技大学(沙河校区)（第 73 条） —— 学校名按全名 + **已登记别名表**匹配（校区 / 城市后缀不作归属推断）；请自行核对该校当年招生章程与体检 / 单科 / 语种要求，本表**不对它作章程层面的风险判断**。\n",
+  "section_md": "## 四、章程原文限制（退档风险）\n\n> 本节逐字引用**你填的这几所学校**招生章程里的**硬性限制条款**（不予录取 / 只招 / 仅限 / 限报 / 退档 一类），来源 = 招生章程正文抽取表（3,778 条可回溯规则）。只取**普通类本科**面（不含艺术 / 体育 / 专科 / 专项计划）；条文**逐字引用，未改写、未推断**，适用范围以章程原文为准 —— 原文没点名你的专业，不等于与你无关，填表前请对照当年招生章程核对。\n\n- 本表 **96** 条志愿：**80** 条的学校章程有硬性限制原文（共 **87** 条不重复条款，逐条列在下面）、**12** 条的学校章程已核对但未抽到硬性限制条款、**4** 条的学校章程**未覆盖**（列在末段）。\n- 另计 **29** 条「建议级」与 **33** 条「只陈述数值」条款**未列入本节**：它们不构成退档依据（「建议身高」≠「不予录取」），禁与上面的硬性限制混算。\n- 其中 **18** 条的原文**逐字点名了你的专业**（下面标「原文点名本条专业」）—— 这类条款与你直接相关，务必先读原文再决定是否保留。\n\n- **第 1 条** · 空军军医大学 ·【应届】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十一条 学校只招收普通高中应届毕业生，且政治面貌为中共党员或共青团员，文理科类别为理科，高考改革省份报考学校各专业均须选考物理、化学，招生各专业无男女生比例限制，学员入学后外语教学为英语。」（章程第 20 句）\n- **第 1 条** · 空军军医大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「各专业对色盲、色弱者不予录取。」（章程第 22 句）\n- **第 2 条** · 哈尔滨医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据国家规定，色觉异常（色盲、色弱）考生不予录取医学类、药学类、生物科学类、生物医学工程专业。」（章程第 16 句）\n- **第 3、9、39 条** · 中国地质大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十四条 学校参照教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》和教育部办公厅、原卫生部办公厅《关于普通高等学校招生学生入学身体检查取消乙肝项目检测有关问题的通知》（教学厅〔 2010〕2号）及有关补充规定，结合学校各专业实际，有以下情况者，学校有关…（原文共 306 字）」（章程第 33 句）\n- **第 3、9、39 条** · 中国地质大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常 II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包括：地理信息科学，地球物理学。」（章程第 34 句）\n- **第 3、9、39 条** · 中国地质大学 ·【视力 / 色觉】· **原文点名本条专业**：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取的专业：除同轻度色觉异常、色觉异常 II度两类列出专业外，还包括：计算机科学与技术，数据科学与大数据技术，工商管理，会计学，经济学，经济学（与资勘专业双学士学位），数字经济，信息管理与信息…（原文共 182 字）」（章程第 35 句）\n- **第 4、10 条** · 东华大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「7. 轻度色觉异常（俗称色弱）不予录取的专业：视觉传达设计、环境设计、产品设计、服装与服饰设计、数字媒体艺术、艺术与科技、应用化学、生物工程、生物医学工程、轻化工程、环境工程、高分子材料与工程。」（章程第 50 句）\n- **第 4、10 条** · 东华大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「8. 色觉异常Ⅱ度（俗称色盲）不予录取的专业：除同轻度色觉异常外还包括应用物理学、无机非金属材料工程。」（章程第 51 句）\n- **第 4、10 条** · 东华大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「9. 不能准确识别 红、黄、绿、兰、紫 各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取的专业除同轻度色觉异常、色觉异常II度两类列出专业外，还包括信息管理与信息系统、市场营销、会计学、财务管理、工商管理、公共关系学、行政管理专业。」（章程第 52 句）\n- **第 6、63 条** · 对外经济贸易大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十 二 条 学校除英语、德语、法语、西班牙语、意大利语、日语、阿拉伯语、俄语、葡萄牙语、朝鲜语、希腊语、波斯语、越南语语言类专业 只 招英语考生外，其他所有专业不限外语应试语种。」（章程第 16 句）\n- **第 6、63 条** · 对外经济贸易大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「20 26 年我校对第二条 “ 患有下列疾病者，学校有关专业可不予录取 ” 中的第2小条“不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常 Ⅱ 度两类列出专业外，还包括经济学类、管理科学与工程类、工商管…（原文共 167 字）」（章程第 33 句）\n- **第 7、89 条** · 西南大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第二十 五 条 学校英语专业只招收英语语种考生，对省级招生考试机构统一组织英语口试的省（自治区、直辖市），考生须参加口试且成绩合格；」（章程第 45 句）\n- **第 7、89 条** · 西南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据专业特点，学校部分专业（类）对体检色觉异常考生不予录取，具体如下： 1. 不招色弱、色盲、单色识别不全考生的专业（类） ： 学前教育 、 特殊教育 、 化学 、 化学类 、 环境科学与工程 、 自然保护与环境生态类 ；」（章程第 56 句）\n- **第 7、89 条** · 西南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 不招色盲 、单色识别不全 考生 的专业（类） ： 心理学 、 心理学 （ 中外合作办学 ） 、 应用心理学 、 雕塑 、 绘画 、 美术学 、 视觉传达设计 、 量子信息科学 、 材料类 、 地理科学 、 智慧农业 、 植物科学与技术 （ 中外合作办学 ） 、 生物育种科学…（原文共 288 字）」（章程第 57 句）\n- **第 8、30 条** · 中国农业大学 ·【视力 / 色觉】· **原文点名本条专业**：「除规定的条目外，根据学校专业培养的实际要求，对考生身体健康状况作以下补充规定： 有以下情况者，学校有关专业不予录取： 1．轻度色觉异常（俗称色弱）不能录取的专业：理科试验班（生命科学）、生物育种科学、农学、种子科学与工程、园艺、园林、植物保护、生物科学、生物技术、生态学、环境工程…（原文共 237 字）」（章程第 50 句）\n- **第 8、30 条** · 中国农业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2．色觉异常 Ⅱ 度（俗称色盲）不能录取的专业，除上述轻度色觉异常不能录取的专业外，还包括应用气象学、地理信息科学等专业。」（章程第 51 句）\n- **第 8、30 条** · 中国农业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3．不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除上述轻度色觉异常、色觉异常 Ⅱ 度两类列出的专业外，还包括土地资源管理、土地科学与技术、国际经济与贸易、金融学、农林经济管理、工商管理、会计学、电子商务、大数据管理与应用、农…（原文共 187 字）」（章程第 52 句）\n- **第 11、35、36、75、96 条** · 合肥工业大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十八条 英语、印度尼西亚语专业只招收外语语种为英语的考生， 中外合作办学 专业部分课程采用英语授课，建议非英语考生慎重报考；」（章程第 33 句）\n- **第 11、35、36、75、96 条** · 合肥工业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「特别需要指出： （ 1）轻度色觉异常（俗称色弱）不能录取的专业：以颜色波长作为严格技术标准的化学工程与工艺、高分子材料与工程、应用化学、化学、能源化学工程、制药工程、药学、生物工程、生物技术、食品科学与工程、食品质量与安全、食品营养与健康、生物医学工程、环境工程、过程装备与控制工…（原文共 153 字）」（章程第 42 句）\n- **第 11、35、36、75、96 条** · 合肥工业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（ 2）色觉异常Ⅱ度（俗称色盲）不能录取的专业，除同轻度色觉异常外，还包括 应用物理学、量子信息科学、资源勘查工程、地球信息科学与技术 、遥感科学与技术、无机非金属材料工程专业 。」（章程第 43 句）\n- **第 11、35、36、75、96 条** · 合肥工业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（ 3）不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济学 、 会计学专业。」（章程第 44 句）\n- **第 12、52、60、80 条** · 暨南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据专业特点， 临床医学（含校本部班、省二医班、深圳班和全英语教学等 4个专业）、口腔医学、预防医学、中医学、护理学、药学（含全英语教学 、 笃行精药班 等 3 个专业）、中药学、生物制药等 1 3 个专业 ， 色盲、色弱考生 限报 。」（章程第 53 句）\n- **第 13、18、27、43、46、55、56、79、84、94 条** · 吉林大学 ·【视力 / 色觉】· **原文点名本条专业**：「2 .患有下列疾病者，有关专业不予录取 （ 1） 轻度色觉异常（俗称色弱）不能录取的专业：化学类（含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺）、生物科学类（含生物科学、生物技术 、生物制药 ）、预防医学、临床医学、放射医学、口腔医学、药学、临床药学、 生物医学科…（原文共 228 字）」（章程第 54 句）\n- **第 13、18、27、43、46、55、56、79、84、94 条** · 吉林大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（ 2） 色觉异常 II度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括绘画、 艺术设计学、 材料物理专业。」（章程第 55 句）\n- **第 13、18、27、43、46、55、56、79、84、94 条** · 吉林大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（ 3） 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常 II度两类列出专业外，还包括市场营销、地质类（含地质学、资源勘查工程、土地资源管理）、档案学专业。」（章程第 56 句）\n- **第 14、48 条** · 西北农林科技大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「有以下情况者，学校有关专业不能录取，请有关考生谨慎报考： 1. 轻度色觉异常（俗称色弱）不能录取的专业：农学、种子科学与工程、植物科学与技术、智慧农业、生物育种科学、植物保护、制药工程、园艺、茶学、动物科学、水产养殖学、智慧牧业科学与工程、动物医学、动物药学、园林、林学、森林保护…（原文共 236 字）」（章程第 44 句）\n- **第 14、48 条** · 西北农林科技大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 色觉异常II度(俗称色盲)不能录取的专业，除同轻度色觉异常外，还有环境设计和地理信息科学专业。」（章程第 45 句）\n- **第 15、95 条** · 长安大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（二）患有下列疾病者，有关专业不予录取 1. 轻度色觉异常（俗称色弱）不能录取的专业：化学工程与工艺、地质学、环境工程、高分子材料与工程专业。」（章程第 43 句）\n- **第 15、95 条** · 长安大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 色觉异常 II 度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括应用物理学、矿物加工工程、资源勘查工程、交通运输专业。」（章程第 44 句）\n- **第 15、95 条** · 长安大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济统计学、工程管理、大数据管理与应用、工商管理、会计学、行政管理专业。」（章程第 45 句）\n- **第 17、57、69、92 条** · 中央民族大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「轻度色觉异常（俗称色弱）不能录取的专业：生物科学类、体育教育、环境科学与工程类中的环境工程专业及化学专业、历史学类中的考古学专业；」（章程第 59 句）\n- **第 17、57、69、92 条** · 中央民族大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常 Ⅱ度（俗称色盲）不能录取的专业：除同轻度色觉异常外，还包括美术学、绘画（油画）、中国画、视觉传达设计、服装与服饰设计、环境设计、历史学类中的文物与博物馆学专业；」（章程第 60 句）\n- **第 17、57、69、92 条** · 中央民族大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济学类中的经济学专业、数字经济、工商管理类、公共管理类专业；」（章程第 61 句）\n- **第 19 条** · 中国传媒大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十 五 条 外语类专业只招英语语种的考生 ， 其他专业不限制考生应试的外语语种 。」（章程第 23 句）\n- **第 20 条** · 首都医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不招 色盲、色弱 、 斜视、弱视 及其他各类不能准确识别颜色者；」（章程第 32 句）\n- **第 21 条** · 北京科技大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第二十一条 外国语言文学类（包含英语、日语、德语）专业只招收外语语种为英语的考生；」（章程第 36 句）\n- **第 21 条** · 北京科技大学 ·【视力 / 色觉】· **原文点名本条专业**：「附件： 北京科技大学2026年本科招生专业（类）目录 招生专业（类） 包含专业 培养政策 培养地点 体检限报 改革省份 选科要求 智能建造（智慧城市与工程诊治） 智能建造、土木工程、建筑环境与能源应用工程 入学后可参加未来城市创新班选拔 一、二年级在北京校区，三、四年级在雄安校区…（原文共 441 字）」（章程第 60 句）\n- **第 22、44、50、67、90 条** · 中国海洋大学 ·【视力 / 色觉】· **原文点名本条专业**：「其中，轻度色觉异常（俗称色弱）原则上不予录取的专业，包含海洋科学、海洋技术、轮机工程、化学、化学工程与工艺、材料类、生物科学、生物科学类、地质学、地球信息科学与技术、环境工程、工业设计、水产养殖学、海洋资源与环境、海洋渔业科学与技术、食品科学与工程类、药学等专业。」（章程第 15 句）\n- **第 22、44、50、67、90 条** · 中国海洋大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常Ⅱ度（俗称色盲）原则上不予录取的专业，除同轻度色觉异常外，还包含大气科学专业。」（章程第 16 句）\n- **第 22、44、50、67、90 条** · 中国海洋大学 ·【视力 / 色觉】· **原文点名本条专业**：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者原则上不予录取的专业，除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括经济学、工商管理、市场营销、会计学、财务管理、公共事业管理、行政管理专业。」（章程第 17 句）\n- **第 23、29 条** · 哈尔滨工程大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「其中：轻度色觉异常（俗称色弱）不予录取的专业：化学工程与工艺；」（章程第 26 句）\n- **第 23、29 条** · 哈尔滨工程大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常II度（俗称色盲）不予录取的专业：化学工程与工艺、材料物理（中外合作办学）；」（章程第 27 句）\n- **第 23、29 条** · 哈尔滨工程大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十九条 学校英语专业只招收英语考生，不加试口语。」（章程第 32 句）\n- **第 25 条** · 南方医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据国家有关规定，学校除法学（卫生法学）、健康服务与管理、公共事业管理、外国语言文学类专业外，其他专业不招收色盲色弱考生。」（章程第 44 句）\n- **第 28 条** · 北京中医药大学 ·【视力 / 色觉】· **原文点名本条专业**：「根据专业培养和就业特点，从对考生负责、维护考生利益的原则出发，色盲、色弱及其他各类不能准确识别颜色考生不予录取至医药学类 （中医学、中西医临床医学、针灸推拿学、中医骨伤科学、中药学、中药制药、药学、药事管理、护理学） 、生物工程专业；」（章程第 41 句）\n- **第 33、66 条** · 北京化工大学 ·【视力 / 色觉】· **原文点名本条专业**：「根据专业（类）培养特点，轻度色觉异常（俗称色弱）、色觉异常 II 度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取至工科试验班（宏德书院）、工科试验班（未来生物科技）、工科试验班（化工与能源）、工科试验班（先进材料）、工…（原文共 256 字）」（章程第 47 句）\n- **第 34 条** · 南京医科大学 ·【视力 / 色觉】· **原文点名本条专业**：「其中， 1. 轻度色觉异常（俗称色弱）不能录取的专业：临床医学（天元卓越班）、预防医学（天元创新班）、基础医学（天元创新班）、临床医学（ 5+3 一体化）、临床医学（ 5+3 一体化，儿科学）、口腔医学（ 5+3 一体化）、临床医学、医学影像学、儿科学、精神医学、眼视光医学、放射…（原文共 227 字）」（章程第 35 句）\n- **第 34 条** · 南京医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 色觉异常Ⅱ度（俗称色盲）不能录取的专业：同轻度色觉异常所列专业；」（章程第 36 句）\n- **第 34 条** · 南京医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常Ⅱ度两类所列专业外，还包括公共事业管理（卫生事业管理）、医疗保险。」（章程第 37 句）\n- **第 34 条** · 南京医科大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第二十条 英语专业只 招收 高考外语语种为英语的考生，其他专业不限外语语种，新生进校后均以英语为第一外语安排教学；」（章程第 41 句）\n- **第 37、70 条** · 兰州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「其中，与色彩辨识密切相关，轻度色觉异常（俗称色弱）不予录取的专业，包含但不限于化学类、 化学工程与工艺、 医学类、药学类、生物科学类、动物科学、地质学类、草业科学、生态学、环境 科学与 工程、核化工与核燃料、材料化学、新能源材料与器件 、 生物制药 等 相关 专业 ；」（章程第 29 句）\n- **第 37、70 条** · 兰州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「与色彩辨识密切相关，色觉异常 II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含但不限于 设计学类、 应用物理学、 辐射防护与核安全、核科学与核技术、 地理科学、应用气象学、 文物与 博物馆学、材料物理 、 资源勘查工程 等专业 ；」（章程第 30 句）\n- **第 37、70 条** · 兰州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业，除同轻度色觉异常、色觉异常 Ⅱ度两类列出专业外，还包括经济学类、 信息管理与信息系统 、工商管理类等专业 ；」（章程第 31 句）\n- **第 38 条** · 大连医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「学校授予学位门类为医学、理学、工学的专业不招收色盲、色弱考生，授予学位门类为艺术学的专业不招收色盲考生。」（章程第 40 句）\n- **第 41 条** · 武汉理工大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「对考生身体健康状况的要求，以教育部、原卫生部、中国残疾人联合会印发的《普通高等学校招生体检工作指导意见》及有关补充规定为基本依据，具体要求如下： （一）患有下列疾病者，学校有关专业不予录取： 1. 轻度色觉异常（俗称色弱）或色觉异常Ⅱ度（俗称色盲）：化工与制药类（含生物方向）、生…（原文共 184 字）」（章程第 33 句）\n- **第 45、87 条** · 中国矿业大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十二条 根据学校专业设置及培养方式，部分专业的特殊要求： 1. 英语专业只招英语语种考生。」（章程第 40 句）\n- **第 45、87 条** · 中国矿业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「轻度色觉异常（俗称色弱）考生不能录取至化学工程与工艺、环境工程专业；」（章程第 43 句）\n- **第 45、87 条** · 中国矿业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常 Ⅱ度（俗称色盲）考生不能录取的专业，除同轻度色觉异常外，还包括矿物加工工程、资源勘查工程专业；」（章程第 44 句）\n- **第 45、87 条** · 中国矿业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不能录取的专业，除同轻度色觉异常、色觉异常Ⅱ度外，还包括 工商管理 、 会计学 、行政管理专业；」（章程第 45 句）\n- **第 47、61、93 条** · 江南大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「五、外语要求 英语 、 日语 专业只招收英语语种的考生，其他专业不限考生的应试外语语种。」（章程第 9 句）\n- **第 47、61、93 条** · 江南大学 ·【视力 / 色觉】· **原文点名本条专业**：「（二）患有下列疾病者，有关专业不予录取 1. 轻度色觉异常 （ 俗称色弱 ） 不能录取的专业：食品科学与工程、食品科学与工程（食品 AI 卓越创新班）、 食品科学与工程（ 筑基领军班 ） 、 食品科学与工程（中外合作办学）、生物工程、生物工程（国家生命科学与技术人才培养基地班） …（原文共 254 字）」（章程第 13 句）\n- **第 47、61、93 条** · 江南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2. 色觉异常 II 度 （ 俗称色盲 ） 不能录取的专业：同轻度色觉异常。」（章程第 14 句）\n- **第 47、61、93 条** · 江南大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同轻度色觉异常、色觉异常 II 度两类列出专业外，还包括 数字经济、 大数据管理与应用、大数据管理与应用 （ 中外合作办学 ）、 工商管理、工商管理（中外合作办学）、会计学…（原文共 144 字）」（章程第 15 句）\n- **第 49、51 条** · 华东理工大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「(1)不招色弱、色盲、嗅觉迟钝考生(属于其中任何一种或多种情况即视为体检受限 ) 的专业(类) 包括：工科试验班(生物医药)、工科试验班(智慧化工)、工科试验班(能源与环境)、化学(教育部拔尖基地班)、化学类(新工科化学实验班)、化学类(智创化学实验班)、生物工程类、 制药工程(…（原文共 408 字）」（章程第 38 句）\n- **第 49、51 条** · 华东理工大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「(2)不招色弱、色盲考生(属于其中任何一种或多种情况即视为体检受限)的专业(类)包括：工业设计、风景园林(未来人居环境方向)、设计学类等专业(类)及其包含的专业。」（章程第 39 句）\n- **第 49、51 条** · 华东理工大学 ·【视力 / 色觉】· **原文点名本条专业**：「(3)不招色盲考生的 专业(类)包括 ：工科试验班(智能与机器人)、电子信息类、机械类(机械智能化实验班)、物理学类等专业(类)及其包含的专业。」（章程第 40 句）\n- **第 53、54、83 条** · 苏州大学 ·【视力 / 色觉】· **原文点名本条专业**：「⑵轻度色觉异常（俗称色弱）不能录取的专业：生物制药（含中外合作办学）、药学（含中外合作办学、拔尖创新班）、临床医学（含 5+3一体化）、医学影像学、放射医学、儿科学、口腔医学、预防医学、法医学、医学检验技术、护理学。」（章程第 31 句）\n- **第 53、54、83 条** · 苏州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「⑶色觉异常 II度（俗称色盲）不能录取的专业，除同轻度色觉异常外，还包括 化学（含师范、拔尖创新班、双学士学位培养项目）、材料类、化学工程与工艺、 轻化工程。」（章程第 32 句）\n- **第 53、54、83 条** · 苏州大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「⑷单色识别不全不能录取的专业：不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业，同轻度色觉异常、色觉异常 II度两类列出专业。」（章程第 33 句）\n- **第 53、54、83 条** · 苏州大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3.高考外语语种要求：外国语言文学类专业，只招收英语语种考生；」（章程第 35 句）\n- **第 58、88 条** · 东北大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「根据专业培养的实际要求，有以下情况者有关专业不予录取，其中，轻度色觉异常（俗称色弱）不予录取的专业，包含化学、应用化学、生物工程、生物制药、生物医学工程、生物医学工程（中外合作办学）、智能医学工程、资源循环科学与工程、环境工程等专业。」（章程第 29 句）\n- **第 58、88 条** · 东北大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「色觉异常II度（俗称色盲）不予录取的专业，除同轻度色觉异常外，还包含 环境设计、视觉传达设计、 应用物理学、材料物理、矿物加工工程、冶金工程等专业。」（章程第 30 句）\n- **第 58、88 条** · 东北大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业，除同轻度色觉异常、色觉异常Ⅱ度两类列出专业外，还包括金融学、经济学、信息管理与信息系统、工业工程、工业工程（双学士学位项目，与自动化合办）、工商管理、市场营销、会计学、 会计学（双…（原文共 179 字）」（章程第 31 句）\n- **第 58、88 条** · 东北大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「外国语言文学类（含英语、日语［区域与国别］、俄语、德语）专业只招收外语语种为英语的考生。」（章程第 54 句）\n- **第 64、71 条** · 北京林业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（一）轻度色觉异常（俗称“色弱”）不予录取专业：生物科学（拔尖班）、智慧林业（尖班）、生物育种科学（尖班）、生物科学类、林学类（梁希实验班）、林业工程类（梁希实验班）、生物科学（中药学复合人才拔尖班）、林学（与林经专业双学士学位项目）、生物技术（与水土保持专业双学士学位项目）、生…（原文共 226 字）」（章程第 40 句）\n- **第 64、71 条** · 北京林业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「（二）色觉异常Ⅱ度（俗称“色盲”）不予录取专业：除同轻度色觉异常外，还包括地理信息科学、自然地理与资源环境、家具设计与工程（卓越人才实验班）、设计学类等；」（章程第 41 句）\n- **第 64、71 条** · 北京林业大学 ·【视力 / 色觉】· **原文点名本条专业**：「（三）不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取专业：除同轻度色觉异常、色觉异常Ⅱ度外，还包括农林经济管理（梁希实验班）、工商管理类、国际经济与贸易、金融学、数字经济、大数据管理与应用、电气工程及其自动化、自动化、计算机类、网络工…（原文共 163 字）」（章程第 42 句）\n- **第 65 条** · 上海财经大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「5. 商务英语专业只招外语选考英语的考生；」（章程第 28 句）\n- **第 74 条** · 中国社会科学院大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3. 轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）不能录取到以颜色波长作为严格技术标准的考古学等专业；」（章程第 18 句）\n- **第 76 条** · 天津医科大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「考生患有《指导意见》第二条第 1项、第2项所列疾病（色盲、色弱） ， 除公共事业管理专业外， 我校 2026 年 其他 本科招生专业均不 予 录取 。」（章程第 102 句）\n- **第 81、85 条** · 安徽大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「特别需要指出： 1. 轻度色觉异常（俗称色弱）不能录取的专业：化学工程与工艺、化学、高分子材料与工程、生物科学、食品科学与工程、生物工程、生物制药、应用心理学专业。」（章程第 17 句）\n- **第 81、85 条** · 安徽大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2.色觉异常Ⅱ度（俗称色盲）不能录取的专业：除同 轻度色觉异常 外，还包括视觉传达设计、环境设计、绘画专业。」（章程第 18 句）\n- **第 81、85 条** · 安徽大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「3.不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取的专业：除同 轻度色觉异常、色觉异常 Ⅱ度两类列出专业 外，还包括经济统计学、大数据管理与应用专业。」（章程第 19 句）\n- **第 82 条** · 华中师范大学 ·【语种】· 原文未点名本条专业（是否适用于你，请按原文核对）：「第十八条 我校 英语专业 所有招生方向 只招收 全国统考 英语语种考生，其余各专业（类）不限考生的应试外语语种。」（章程第 45 句）\n- **第 82 条** · 华中师范大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「考生患有《指导意见》第一条中列出的六大类疾病及以下情况者，不予录取： 1．轻度色觉异常（俗称色弱）不能录取的专业 为 ：化学、生物科学、生物技术专业所有招生方向 ；」（章程第 49 句）\n- **第 82 条** · 华中师范大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「2．色觉异常II度（俗称色盲） ， 不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者 ， 不能录取的专业 为 ：化学、生物科学、生物技术、美术学、绘画、视觉传达设计专业所有招生方向。」（章程第 50 句）\n- **第 86 条** · 西北工业大学 ·【视力 / 色觉】· 原文未点名本条专业（是否适用于你，请按原文核对）：「其中，色觉异常 Ⅱ 度（俗称 “ 色盲 ” ）不予录取的专业为建筑学、产品设计。」（章程第 42 句）\n\n- **章程未覆盖**（本版规则表里没有这些学校）：中国石油大学(华东)（第 59、77 条）；山东大学威海分校（第 26 条）；电子科技大学(沙河校区)（第 73 条） —— 学校名按全名 + **已登记别名表**匹配（校区 / 城市后缀不作归属推断）；请自行核对该校当年招生章程与体检 / 单科 / 语种要求，本表**不对它作章程层面的风险判断**。\n",
   "missing_index_line": "- **本章程规则表未接入**（本轮未取到规则表文件）：本节无从判定，**不代表没有限制** —— 填表前请逐校核对当年招生章程的体检 / 单科 / 语种 / 性别要求。",
   "n_rules_total": 3778,
   "locate": {
-   "n_items": 163,
-   "n_ok": 163,
-   "n_context": 163,
-   "n_files": 33,
+   "n_items": 216,
+   "n_ok": 216,
+   "n_context": 216,
+   "n_files": 37,
    "n_truncated": 3,
    "reasons": {}
   }
