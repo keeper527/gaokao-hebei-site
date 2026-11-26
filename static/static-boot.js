@@ -7,6 +7,11 @@
      档位怎么算（最近档、平局取低档）是 `score_band_plans.band_for()` 的唯一实现，
      这里重算一遍就成了同一套算式的第二份实现（W133 同族）。 */
   var BANDS = window.__BANDS__ || null;
+  /* 服务版声明（T-20261127-001）：五处「超出范围怎么办」的文案**全部**由
+     `static_export.service_hints()` 现算注入 —— 站点里禁再手写服务版字样。
+     `deployed=false` 时这些文案说的是读者**能做**的事（省考试院一分一档表 / 当年投档统计），
+     不再把家长引向一个没有地址的「服务版」。 */
+  var SERVICE = {"above_range": "精确位次请以省考试院「一分一档表」核对，招生院校以当年「投档统计」为准（数据来源见使用说明）", "band_miss": "查不到档位（预生成表不完整）——请换一个分数再试；精确位次请以省考试院「一分一档表」核对（数据来源见使用说明）", "deployed": false, "label": "在线服务版", "out_of_range": "范围之外没有预生成页：精确到 1 分请以省考试院「一分一档表」核对位次，这一段有哪些院校在招请看当年「投档统计」（数据来源见使用说明）", "prefs": "按偏好重算要另跑一端程序，公网静态版不提供（本机版仅供自用）；请按本页方案与各校招生章程自行核对", "url": null};
   function has(o, k) { return !!o && Object.prototype.hasOwnProperty.call(o, k); }
   function bandOf(id) { return (BANDS && has(BANDS.bands, id)) ? BANDS.bands[id] : null; }
   function bandSeg(subject) {
@@ -296,7 +301,7 @@
       " <button id=\"band-go\" type=\"button\">查看这一档</button>" +
       " <span id=\"band-msg\"></span>" +
       "<div style=\"margin-top:4px\">静态版按 " + (first ? first.step_note : "") +
-      " 预生成，预生成范围 " + ranges + "；超出范围请用在线服务版" +
+      " 预生成，预生成范围 " + ranges + "；" + SERVICE.out_of_range +
       "（静态页不在浏览器里算方案）。</div>";
   }
   function bindScoreBox() {
@@ -328,9 +333,9 @@
         if (seg.below_admission && seg.below_admission.rows && !seg.below_admission.general_rows) {
           bmsg += "：本科批在这条线以下还有 " + seg.below_admission.rows + " 条投档记录、来自 " +
             seg.below_admission.schools + " 所院校，全部是要求特定报考资格的" +
-            seg.below_admission.kinds_cn + "（普通考生报不了）—— 本页不给方案（服务版同样拒绝计算）。";
+            seg.below_admission.kinds_cn + "（普通考生报不了）—— 本页不给方案。";
         } else {
-          bmsg += "：本科批里没有可以投档的学校，本页不给方案（服务版同样拒绝计算）。";
+          bmsg += "：本科批里没有可以投档的学校，本页不给方案。";
         }
         say(bmsg);
         return;
@@ -353,17 +358,18 @@
             seg.tail_admission.rows + " 条投档记录、来自 " + seg.tail_admission.schools +
             " 所院校 —— 这一段有学校在招";
         }
-        msg += "；请用在线服务版按精确位次算。";
+        msg += "；" + SERVICE.above_range + "。";
         say(msg);
         return;
       }
       if (score < seg.lo || score > seg.hi) {
-        say(seg.subject_cn + " " + score + " 分超出预生成范围（" + seg.lo + "–" + seg.hi + "），请用在线服务版");
+        say(seg.subject_cn + " " + score + " 分超出预生成范围（" + seg.lo + "–" + seg.hi + "）；" +
+          SERVICE.out_of_range);
         return;
       }
       var hit = bandHit(subject, score);
       var b = hit ? bandOf(hit) : null;
-      if (!b) { say("查不到档位（预生成表不完整，请用在线服务版）"); return; }
+      if (!b) { say(SERVICE.band_miss); return; }
       say("→ " + hit + "：" + b.subject_cn + " " + b.score + " 分档（覆盖 " + b.lo + "–" + b.hi + " 分）");
       window.location.search = "?case=" + encodeURIComponent(hit);
     };
@@ -416,7 +422,7 @@
         note.innerHTML = "<b>静态正式版</b>：方案按<b>分数档</b>预生成，这一页已经是该档的完整方案，" +
           "不用再点「生成方案」。换分数用上面的「查自己的分数」；" +
           "<b>偏好设置不参与计算</b>（专业优先 / 排除 / 只保留这些都要按你的条件重算）—— " +
-          "那一路请用在线服务版。";
+          SERVICE.prefs + "。";
         card.parentNode.insertBefore(note, card);
         card.hidden = true;
       }
