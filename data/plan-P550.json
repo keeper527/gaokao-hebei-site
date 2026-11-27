@@ -9190,10 +9190,10 @@
    "snapshot_version": "v1-snapshot-20260824-003"
   },
   "source": {
-   "file": "reports/system-accuracy-v1-20261122-recalc.json",
-   "sha12": "04ffbddb9378",
+   "file": "reports/system-accuracy-v1-20261127.json",
+   "sha12": "9ea0ccc2ae68",
    "generator": "scripts/webui/accuracy_probe.py",
-   "generated_at": "2026-11-22T21:19+0800"
+   "generated_at": "2026-11-27T19:04+0800"
   },
   "stale": false,
   "stale_reasons": [],
