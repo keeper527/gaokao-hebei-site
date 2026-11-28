@@ -1,7 +1,7 @@
 {
  "ok": true,
  "site": "gaokao-hebei-static-site",
- "generated_at": "2026-11-28T09:22:00+08:00",
+ "generated_at": "2026-11-28T13:42:20+08:00",
  "note": "静态正式版：只读站点，页面不在浏览器侧算方案；每个案例的方案件与 outputs/plans 逐行同源。自定义分数按 10 分一档预生成（取最近档）；精确到 1 分请以省考试院一分一档表核对位次（数据来源见使用说明）。",
  "default": "C1",
  "cases": [
@@ -2328,5 +2328,6 @@
   ],
   "source": "data/cache/score-bands",
   "generated_at": "2026-11-28T09:16:07+08:00"
- }
+ },
+ "content_rev": "ba2b33f69250a724c4b75c89b8771238a42f7f812970f54fb8f95c9cd1848fdc"
 }
